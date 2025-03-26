@@ -1,0 +1,32 @@
+1. What factors influence response time, and how does it vary across interactions?
+
+2. Is there a trade-off between response time and quality in user satisfaction?
+
+3. How coherent are multi-turn conversations? Do users frequently repeat or rephrase questions due to unclear responses?
+
+4. How well do models handle shifts in topic or ambiguous questions? Are certain models better at maintaining conversational context?
+
+5. Are users better informed about HIV prevention and PrEP after interacting with the chatbot? (Follow-up studies or surveys could be linked to timestamps.)
+
+6. Do conversations lead to measurable outcomes, such as accessing PrEP services or adopting prevention measures?
+
+7. How well do responses align with user values and goals? Is there evidence of personalized or value-sensitive counseling?
+
+8. How accessible are the model’s explanations across different literacy levels?
+
+9. Are there disparities in response clarity or usefulness based on linguistic complexity?
+
+10. Do models appropriately address the needs of diverse user groups, such as LGBTQ+ individuals, injecting drug users, or different cultural backgrounds?
+
+11. Are there recurring missed opportunities where the model could have provided actionable advice but did not?
+
+12. What are the most common errors in responses (e.g., factual inaccuracies, ambiguous phrasing, incomplete answers), and how can they be mitigated?
+
+13. How do user needs and behavior evolve over time, especially in response to changes in public health policy or events (e.g., new PrEP formulations)?
+
+14. How do updates to model architectures or training data affect the quality and impact of interactions?
+
+15. Could combining models (e.g., GPT + Llama) lead to improved accuracy or diversity in responses?
+
+16. Do specialized models like Llama-3.1-8B-Instruct (focused on a domain) outperform generalized models in user satisfaction and education?
+
