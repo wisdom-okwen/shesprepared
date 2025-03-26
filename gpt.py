@@ -3,6 +3,7 @@ import json
 from dotenv import load_dotenv
 from openai import OpenAI
 
+
 load_dotenv()
 api_key = os.getenv('OPENAI_API_KEY')
 if not api_key:
@@ -12,16 +13,13 @@ client = OpenAI(api_key=api_key)
 
 
 HISTORY_FILE = "history.json"
-
 LANGUAGE_LEVELS = {
     '5th Grade': '5th Grade: Respond in very simple language suitable for someone at a 5th-grade reading level. Use short sentences, avoid technical terms, and explain concepts in an easily understandable way.',
     '8th Grade': '8th Grade: Respond in clear and moderately detailed language suitable for someone at an 8th-grade reading level. Avoid technical terms and use familiar terms and simplify complex concepts.',
     'College': 'College: Respond with detailed and precise language suitable for someone with a college education. Use only few technical terms where appropriate and provide well-structured explanations.',
     'Graduate': 'Graduate: Respond with advanced and highly detailed language suitable for someone with a graduate-level education. Use specialized vocabulary and offer nuanced, in-depth explanations.'
 }
-
 NON_TECHNICAL_RESPNOSE_EXAMPLE = "HIV is a virus that weakens the immune system. It spreads through unprotected sex, sharing needles, or from mother to baby. It can lead to AIDS, a serious illness. It is not spread by hugging or kissing. Use condoms or PrEP to protect yourself."
-
 HISTORY_LENGTH = 4
 
 # Get the absolute path to the current directory (shesprepared/)
@@ -49,11 +47,10 @@ def save_history(user, bot):
         json.dump(history, file, indent=4)
 
 
-# Load decision-aid content
 with open(file_path, 'r', encoding='utf-8') as file:
     decision_aid_content = file.read()
 
-# hist = []
+
 def get_gpt_response(user_input, language_level='8th Grade'):
     """ Function to get GPT's response based on user input, using detailed prompts."""
     global LANGUAGE_LEVELS
@@ -102,13 +99,10 @@ def get_gpt_response(user_input, language_level='8th Grade'):
             "**Include references to injectable PrEP as much as possible and avoid always defaulting to oral PrEP.**\n"
             "Be sure to add referral sources for social harms (IPV, suicidality, etc.) or refer user back to clinic where necessary.\n"
 
-            # "- Ensure proper indentation for nested lists.\n\n"
-            # "Keep responses as concise and brief as possible, limiting to 100 tokens. Use clear and direct language. Avoid unnecessary details or verbosity.\n"
             "Ensure responses stay within the token limit while providing the most important information concisely.\n"
             "You may want to use the following information for creating your responses (ignore the formatting, since this is copy-pasted):\n"
             f"{decision_aid_content}\n\n"
            
-            # f" In this case consider the previous response only from chat history**.\n"
             f"Consider the following conversation history as additional context: {formatted_history}.\n\n"
             "If the user diverges from the discussion about HIV/AIDS, bring them back politely.\n\n"
             "**Be sure to answer only the question asked without talking about other possibly related topics**\n"
@@ -124,15 +118,11 @@ def get_gpt_response(user_input, language_level='8th Grade'):
             max_tokens = 300,
             temperature=0.75
         )
-
         gpt_response = response.choices[0].message.content
-
         save_history(user_input, gpt_response)
-
         return gpt_response
     except Exception as e:
         return f"GPT experienced an internal error: {str(e)}"
-
 
 
 if __name__ == '__main__':
