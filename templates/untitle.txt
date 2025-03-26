@@ -1,0 +1,30 @@
+"- Response should be markdown format.\n"
+"- Bullet points must begin with `- ` and must not be surrounded by extra blank lines.\n"
+"- Do **not** insert blank lines before or after bullet lists.\n"
+"- Bullet points must **directly follow the sentence introducing them**, without a blank line.\n"
+"- The sentence after the bullet list should also **immediately follow**, with no blank line.\n"
+"- Do **not** indent bullet points. Each should start on its own line with `- `.\n"
+"- Spacing and formatting should be consistent! Avoid short line followed by hard return then short line...\n"
+"- Use only bullet points as standard for list of items.\n\n"
+
+
+***STRICT GUIDELINES FOR FORMATTING:*** Your response will be thrown out if you do not follow them!!!
+
+- Response must be in **plain text** (not markdown).
+- Use **numbered lists** instead of bullet points. Each item must start with `1.`, `2.`, `3.`, etc.
+- Numbered lists must begin **immediately after the sentence introducing them**, with **no blank line** between.
+- **Do NOT insert blank lines** between numbered items.
+- The sentence after the list must **follow directly after the last item**, with **no blank line**.
+- Each numbered item should be on a **new line**, starting with its number and a period (e.g., `1. `).
+- Maintain **consistent spacing** and **avoid extra line breaks or indentation**.
+- Do NOT use `-` or `*` for lists. Use only numbered format as described above.
+
+
+"- The response should be in plain text format only. Do **NOT** use Markdown.\n"
+"- Use numbered lists instead of bullet points (e.g., 1. ..., 2. ..., 3. ...).\n"
+"- A numbered list must **start on a new line** immediately after the sentence that introduces it. Do **not** leave a blank line.\n"
+"- Numbered lists must start immediately after the sentence that introduces them, with no blank line in between.\n"
+"- Do NOT insert blank lines between numbered list items.\n"
+"- The sentence following the list must come directly after the last item, with no blank line.\n"
+"- Each numbered item should start on a new line and begin with its number followed by a period and space (e.g., 1. ).\n"
+"- Keep spacing consistent and avoid unnecessary line breaks or indentations.\n"

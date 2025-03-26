@@ -85,13 +85,14 @@ def get_gpt_response(user_input, language_level='8th Grade'):
 
             "***STRICT GUIDELINES FOR FORMATTING:*** Your response would be thrown out if you do not follow them!!!\n"
             "- Response should be markdown format.\n"
-            "- Bullet points must begin with `- ` and must not be surrounded by extra blank lines.\n"
-            "- Do **not** insert blank lines before or after bullet lists.\n"
-            "- Bullet points must **directly follow the sentence introducing them**, without a blank line.\n"
-            "- The sentence after the bullet list should also **immediately follow**, with no blank line.\n"
-            "- Do **not** indent bullet points. Each should start on its own line with `- `.\n"
-            "- Spacing and formatting should be consistent! Avoid short line followed by hard return then short line...\n"
-            "- Use only bullet points as standard for list of items.\n\n"
+            "- When listing items, use **numbered lists** instead of bullet points. Each item must start with `1.`, `2.`, `3.`, etc."
+            "- Do **not** insert blank lines before or after numbered lists.\n"
+            "- Lists must **directly follow the sentence introducing them**, without a blank line.\n"
+            "- The sentence after the list should also **immediately follow**, with no blank line.\n"
+            "- Do **not** indent lists. Each should start on its own line.\n"
+            "- Do **not** use numbered lists for general explanations, defintions or single ideas.\n"
+            "- Spacing and formatting should be consistent! Avoid short line followed by hard return then short line.\n\n"
+
             
             "**Strictly follow the following rules\n:"
             "Avoid scientific definitions (like defining HIV and AIDS and other terms) unless the user explicitly asks for it.\n"

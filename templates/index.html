@@ -33,6 +33,14 @@
             background-color: #f8f9fa;
         }
 
+        #prep-bot {
+            color: #036758;
+        }
+
+        #you {
+            color: #025ab8;
+        }
+
         .message.user {
             display: inline-block;
             max-width: 40%;
@@ -214,6 +222,10 @@
             background-color: #0056b3;
         }
 
+        .message-text {
+            font-size: 200;
+        }
+
         .summary-btn {
             color: white;
             padding: 4px 7px;
@@ -327,7 +339,7 @@
             const messageDiv = document.createElement("div");
             messageDiv.className = `message ${sender}`;
             messageDiv.innerHTML = sender === 'user'
-                ? `<div><em><strong>You</strong></em><br /></div>${marked.parse(message)}`
+                ? `<div><em><strong id="you">You</strong></em><br /></div>${marked.parse(message)}`
                 : sender === 'bot'
                     ? `<div><strong>PrEP Bot</strong><br /></div>${marked.parse(message)}`
                     : marked.parse(message);
@@ -354,7 +366,22 @@
             }
         }
 
+        function formatNumberedList(text) {
+            console.log("Initial text: ", text)
+            let formatted = text.replace(/<br\s*\/?>/gi, '\n');
+            formatted = formatted.replace(/\n{2,}/g, '\n');
+            formatted = formatted.replace(/(?<!\n)(\d+\.\s)/g, '\n$1');
+            formatted = formatted
+                .trim()
+                .split('\n')
+                .map(line => line.trim())
+                .join('<br>');
+            console.log("Formatted text: ", formatted)
+            return formatted;
+        }
+
         function addBotResponseRow(gptResponse) {
+            gptResponse = formatNumberedList(gptResponse);
             const messagesDiv = document.getElementById("messages");
 
             const responseContainer = document.createElement("div");
@@ -362,7 +389,7 @@
 
             const responseBox = document.createElement("div");
             responseBox.className = "response-box gpt-box";
-            responseBox.innerHTML = `<strong>PrEP Bot</strong><br /> ${marked.parse(gptResponse)}`;
+            responseBox.innerHTML = `<strong id="prep-bot">PrEP Bot</strong><br /><div class="message-text">${marked.parse(gptResponse)}</div>`;
 
             lastBotResponse = gptResponse;
 
@@ -410,39 +437,18 @@
             })
             .then(response => response.json())
             .then(data => {
-                responseContainer.innerHTML = `<div class="response-box gpt-box"><strong>PrEP Bot</strong><br /> ${marked.parse(data.gpt_response)}</div>`;
-                lastBotResponse = data.gpt_response;
+                const output = data.gpt_response;
+                const formattedOutput = formatNumberedList(output);
+                console.log(output);
+                responseContainer.innerHTML = `<div class="response-box gpt-box"><strong>PrEP Bot</strong><br /> ${marked.parse(formattedOutput)}</div>`;
+                lastBotResponse = output;
             })
-            .catch(() => {
-                responseContainer.innerHTML = `<div class="response-box gpt-box"><strong>PrEP Bot</strong><br /> Sorry, something went wrong.</div>`;
+            .catch((error) => {
+                console.error("Fetch error:", error);
+                responseContainer.innerHTML = `<div class="response-box gpt-box"><strong id="prep-bot">PrEP Bot</strong><br /> Sorry, something went wrong.</div>`;
             });
         }
 
-
-        function sendMoreDetails(responseContainer, buttonContainer) {
-            buttonContainer.remove();
-
-            fetch('/chat', {
-                method: "POST",
-                headers: {
-                    "Content-Type": "application/json"
-                },
-                body: JSON.stringify({ 
-                    message: "Give more details",
-                    language_level: selectedLanguageLevel
-                })
-            })
-            .then(response => response.json())
-            .then(data => {
-                const additionalResponse = document.createElement("div");
-                additionalResponse.className = "response-box gpt-box";
-                additionalResponse.innerHTML = `<strong>PrEP Bot</strong><br /> ${marked.parse(data.gpt_response)}`;
-                responseContainer.appendChild(additionalResponse);
-            })
-            .catch(() => {
-                addMessage("bot", "Sorry, something went wrong.");
-            });
-        }
 
     </script>
 </body>
