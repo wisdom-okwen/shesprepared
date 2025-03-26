@@ -99,6 +99,7 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             "Do not assume any type of PrEP as default in your responses. Instead, provide options for both Oral and Injectable PrEP.\n"
             "**Include references to injectable PrEP as much as possible and avoid always defaulting to oral PrEP.**\n"
             "Be sure to add referral sources for social harms (IPV, suicidality, etc.) or refer user back to clinic where necessary.\n"
+            "Distinguish side effects of different products (oral and injectable PrEP) as necessary.\n\n"
 
             "Ensure responses stay within the token limit while providing the most important information concisely.\n"
             "You may want to use the following information for creating your responses (ignore the formatting, since this is copy-pasted):\n"

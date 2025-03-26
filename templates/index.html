@@ -341,7 +341,7 @@
             messageDiv.innerHTML = sender === 'user'
                 ? `<div><em><strong id="you">You</strong></em><br /></div>${marked.parse(message)}`
                 : sender === 'bot'
-                    ? `<div><strong>PrEP Bot</strong><br /></div>${marked.parse(message)}`
+                    ? `<div><strong id="prep-bot">PrEP Bot</strong><br /></div>${marked.parse(message)}`
                     : marked.parse(message);
 
             messagesDiv.appendChild(messageDiv);
@@ -367,7 +367,6 @@
         }
 
         function formatNumberedList(text) {
-            console.log("Initial text: ", text)
             let formatted = text.replace(/<br\s*\/?>/gi, '\n');
             formatted = formatted.replace(/\n{2,}/g, '\n');
             formatted = formatted.replace(/(?<!\n)(\d+\.\s)/g, '\n$1');
@@ -376,7 +375,6 @@
                 .split('\n')
                 .map(line => line.trim())
                 .join('<br>');
-            console.log("Formatted text: ", formatted)
             return formatted;
         }
 
@@ -439,8 +437,7 @@
             .then(data => {
                 const output = data.gpt_response;
                 const formattedOutput = formatNumberedList(output);
-                console.log(output);
-                responseContainer.innerHTML = `<div class="response-box gpt-box"><strong>PrEP Bot</strong><br /> ${marked.parse(formattedOutput)}</div>`;
+                responseContainer.innerHTML = `<div class="response-box gpt-box"><strong id="prep-bot">PrEP Bot</strong><br /> ${marked.parse(formattedOutput)}</div>`;
                 lastBotResponse = output;
             })
             .catch((error) => {
