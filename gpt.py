@@ -51,7 +51,7 @@ with open(file_path, 'r', encoding='utf-8') as file:
     decision_aid_content = file.read()
 
 
-def get_gpt_response(user_input, language_level='8th Grade'):
+def get_gpt_response(user_input, language_level='5th Grade'):
     """ Function to get GPT's response based on user input, using detailed prompts."""
     global LANGUAGE_LEVELS
     
@@ -75,7 +75,7 @@ def get_gpt_response(user_input, language_level='8th Grade'):
             "- **If summarizing, remove complex words and unnecessary details**.\n"
             f"- Here's a perfect example of a good, succint, non-technical response: {NON_TECHNICAL_RESPNOSE_EXAMPLE}\n"
             "- **Responses should be conversational and easy to understand**.\n"
-            f"**Follow this language level as necesary for different users' education levels: {LANGUAGE_LEVELS[language_level]}**\n"
+            f"**Follow this language level as necesary for different users' education levels: {LANGUAGE_LEVELS['5th Grade']}**\n"
             "Be inclusive in your langauge and representative of various backgrounds, open and willing to assist the user and always use friendly language.\n"
             "Avoid introducing fears or stigmas at any point in the discussion.\n"
             "***All sentences should be as short as possible else your response would be thrown out the window***.\n"

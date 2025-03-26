@@ -39,23 +39,15 @@ def chatbot():
 
 @app.route("/chat", methods=["POST"])
 def chat():
-    model = "Llama-3.1-8B-Instruct"
     user_message = request.json.get("message")
     language_level = request.json.get("language_level")
-    # Collect Llama data
-    # start_time = time.time()
-    # llama_response = get_llama_response(user_message)
-    # llama_time = time.time() - start_time
-    # log_to_csv("Llama-3.1-8B-Instruct", user_message, llama_response, llama_time)
 
-    # Collect GPT response data
     start_time = time.time()
     gpt_response = get_gpt_response(user_message, language_level)
     gpt_time = time.time() - start_time
     log_to_csv("GPT", user_message, gpt_response, gpt_time, language_level)
 
     return jsonify({
-        # "llama_response": llama_response,
         "gpt_response": gpt_response
     })
 
