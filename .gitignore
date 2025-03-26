@@ -2,3 +2,8 @@
 __pycache__
 venv
 pyvenv.cfg
+history.json
+new_response_logs.csv
+response_logs.csv
+chat_history.db
+
