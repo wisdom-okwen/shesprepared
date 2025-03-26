@@ -1,418 +1,46 @@
 [
     {
-        "user": "what's prep",
-        "bot": "PrEP stands for pre-exposure prophylaxis. \n\nIt is a daily pill or a bimonthly injection. \n\nPrEP helps prevent HIV infection for people at high risk. \n\nWhen taken correctly, it lowers the chance of getting HIV from sex or sharing needles by over 90%. \n\nYou need a prescription from a doctor to get PrEP. \n\nIt is safe and effective for both vaginal sex and injection drug use. \n\nIf you're interested, talk to your healthcare provider about it!"
+        "user": "what if i'm afraid to tell my spouse",
+        "bot": "It's common to feel afraid to tell a spouse about health concerns. Here are some tips:\n\n- Choose a good time to talk. \n- Share your feelings openly.\n- Explain why it's important for your health.\n- Consider seeking support from a trusted friend or counselor. \n\nYou are not alone in this. Many people face similar situations."
+    },
+    {
+        "user": "what if i'm afraid to tell my spouse",
+        "bot": "It's normal to feel afraid to share health concerns with your spouse. Here are some tips:  \n- Choose a good time to talk.  \n- Share your feelings openly.  \n- Explain why it's important for your health.  \n- Consider seeking support from a friend or counselor.  \nYou are not alone in this. Many people face similar situations."
+    },
+    {
+        "user": "what if i'm afraid to tell my spouse",
+        "bot": "It's normal to feel afraid to share health concerns with your spouse. Here are some tips:  \n- Choose a good time to talk.  \n- Share your feelings openly.  \n- Explain why it's important for your health.  \n- Consider seeking support from a friend or counselor.  \nYou are not alone in this. Many people face similar situations."
+    },
+    {
+        "user": "what if i'm afraid to tell my spouse",
+        "bot": "It's normal to feel scared about sharing health concerns. Here are some tips:\n\n- Pick a good time to talk.  \n- Share your feelings honestly.  \n- Explain why this matters for your health.  \n- Think about getting support from a friend or counselor.  \n\nYou're not alone in this. Many people face similar situations."
+    },
+    {
+        "user": "what if i'm afraid to tell my spouse",
+        "bot": "It's normal to feel scared about sharing health concerns. Here are some tips:\n\n- Pick a good time to talk.  \n- Share your feelings honestly.  \n- Explain why this matters for your health.  \n- Think about getting support from a friend or counselor.  \n\nYou're not alone in this. Many people face similar situations."
+    },
+    {
+        "user": "what if i'm afraid to tell my spouse",
+        "bot": "It's normal to feel afraid about sharing health concerns. Here are some tips:\n\n- Choose a good time to talk.\n- Share your feelings honestly.\n- Explain why this matters for your health.\n- Consider getting support from a friend or counselor.\n\nYou're not alone in this. Many people face similar situations."
+    },
+    {
+        "user": "what if i'm afraid to tell my spouse",
+        "bot": "It's normal to feel afraid about sharing health concerns. Here are some tips:\n\n- Choose a good time to talk.  \n- Share your feelings honestly.  \n- Explain why this matters for your health.  \n- Consider getting support from a friend or counselor.  \n\nYou're not alone in this. Many people face similar situations."
+    },
+    {
+        "user": "what if i'm afraid to tell my spouse",
+        "bot": "It's normal to feel afraid about sharing health concerns. Here are some tips:\n\n- Choose a good time to talk.  \n- Share your feelings honestly.  \n- Explain why this matters for your health.  \n- Consider getting support from a friend or counselor.  \n\nYou're not alone in this. Many people face similar situations."
+    },
+    {
+        "user": "what if i'm afraid to tell my spouse",
+        "bot": "It's normal to feel scared about sharing health concerns. Here are some tips:\n\n- Choose a good time to talk.  \n- Share your feelings honestly.  \n- Explain why this matters for your health.  \n- Consider getting support from a friend or counselor.  \n\nYou're not alone in this. Many people face similar situations."
     },
     {
         "user": "what's hiv",
-        "bot": "HIV stands for human immunodeficiency virus. \n\nIt is a virus that attacks the immune system. \n\nIf untreated, it can lead to AIDS, which is a late stage of HIV. \n\nHIV is most often spread through unprotected sex or sharing needles. \n\nYou cannot get HIV from hugging, kissing, or sharing a toothbrush. \n\nTesting is the only way to know if you have HIV."
+        "bot": "HIV is a virus. It attacks the immune system. This makes it harder for your body to fight infections. HIV spreads through unprotected sex or sharing needles. It can also be passed from a mother to her child during pregnancy or breastfeeding. Knowing your HIV status is crucial for health."
     },
     {
-        "user": "how to prevent hiv",
-        "bot": "You can prevent HIV in several ways:\n\n1. **Use PrEP**: This is a daily pill or a bimonthly injection. It helps prevent HIV if you are at high risk.\n\n2. **Use Condoms**: Male and female condoms provide a barrier against HIV and other sexually transmitted diseases.\n\n3. **Get Tested Regularly**: Know your HIV status and your partner's status. Testing helps you make informed decisions.\n\n4. **Limit Number of Partners**: Having fewer sexual partners can lower your risk.\n\n5. **Avoid Sharing Needles**: If you inject drugs, use your own clean needles.\n\n6. **Talk to Your Partner**: Discuss HIV prevention openly and agree on strategies to stay safe.\n\n7. **Consider Less Risky Sex**: Activities like oral sex carry less risk compared to vaginal or anal sex.\n\nIf you think you may be at risk, talk to your doctor about the best prevention methods for you."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: You can prevent HIV in several ways:\n\n1. **Use PrEP**: This is a daily pill or a bimonthly injection. It helps prevent HIV if you are at high risk.\n\n2. **Use Condoms**: Male and female condoms provide a barrier against HIV and other sexually transmitted diseases.\n\n3. **Get Tested Regularly**: Know your HIV status and your partner's status. Testing helps you make informed decisions.\n\n4. **Limit Number of Partners**: Having fewer sexual partners can lower your risk.\n\n5. **Avoid Sharing Needles**: If you inject drugs, use your own clean needles.\n\n6. **Talk to Your Partner**: Discuss HIV prevention openly and agree on strategies to stay safe.\n\n7. **Consider Less Risky Sex**: Activities like oral sex carry less risk compared to vaginal or anal sex.\n\nIf you think you may be at risk, talk to your doctor about the best prevention methods for you.",
-        "bot": "To prevent HIV:\n\n1. Use PrEP (pill or injection).\n2. Use condoms.\n3. Get tested regularly.\n4. Limit partners.\n5. Avoid sharing needles.\n6. Talk openly with your partner.\n7. Consider less risky sex.\n\nConsult your doctor if at risk."
-    },
-    {
-        "user": "what is HIV?",
-        "bot": "HIV stands for human immunodeficiency virus. \n\nIt is a virus that attacks the immune system. \n\nIf not treated, HIV can lead to AIDS. \n\nAIDS is the late stage of HIV. \n\nHIV is spread mostly through unprotected sex or sharing needles. \n\nYou cannot get HIV from hugging, kissing, or sharing a toothbrush. \n\nThe only way to know if you have HIV is to get tested."
-    },
-    {
-        "user": "Give a littel more details on this response: HIV stands for human immunodeficiency virus. \n\nIt is a virus that attacks the immune system. \n\nIf not treated, HIV can lead to AIDS. \n\nAIDS is the late stage of HIV. \n\nHIV is spread mostly through unprotected sex or sharing needles. \n\nYou cannot get HIV from hugging, kissing, or sharing a toothbrush. \n\nThe only way to know if you have HIV is to get tested.",
-        "bot": "HIV stands for human immunodeficiency virus. \n\nThis virus attacks your immune system. \n\nIf not treated, it can lead to AIDS. \n\nAIDS is the late stage of HIV infection. \n\nHIV is mainly spread through unprotected sex. \n\nIt can also spread by sharing needles. \n\nYou cannot get HIV from hugging, kissing, or sharing a toothbrush. \n\nThe only way to know if you have HIV is to get tested. \n\nTesting helps you make safe choices for your health."
-    },
-    {
-        "user": "can you say that more simply?",
-        "bot": "Sure! \n\nHIV means human immunodeficiency virus. \n\nThis virus hurts your immune system. \n\nIf not treated, it can cause AIDS. \n\nAIDS is the last stage of HIV. \n\nHIV mostly spreads through unprotected sex. \n\nIt can also spread by sharing needles. \n\nYou cannot get HIV from hugging, kissing, or sharing a toothbrush. \n\nThe only way to know if you have HIV is to get tested. \n\nTesting helps you stay healthy."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: Sure! \n\nHIV means human immunodeficiency virus. \n\nThis virus hurts your immune system. \n\nIf not treated, it can cause AIDS. \n\nAIDS is the last stage of HIV. \n\nHIV mostly spreads through unprotected sex. \n\nIt can also spread by sharing needles. \n\nYou cannot get HIV from hugging, kissing, or sharing a toothbrush. \n\nThe only way to know if you have HIV is to get tested. \n\nTesting helps you stay healthy.",
-        "bot": "HIV is a virus that weakens your immune system. If untreated, it can cause AIDS. It spreads mainly through unprotected sex and sharing needles. You can't get it from hugging or kissing. Testing is the only way to know if you have HIV."
-    },
-    {
-        "user": "what is PrEP?",
-        "bot": "PrEP stands for pre-exposure prophylaxis. \n\nIt is medicine that helps prevent HIV. \n\nPeople who are HIV-negative take PrEP to lower their chances of getting HIV. \n\nYou can take it as a daily pill or as a shot every two months. \n\nPrEP is very effective when taken as prescribed."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: PrEP stands for pre-exposure prophylaxis. \n\nIt is medicine that helps prevent HIV. \n\nPeople who are HIV-negative take PrEP to lower their chances of getting HIV. \n\nYou can take it as a daily pill or as a shot every two months. \n\nPrEP is very effective when taken as prescribed.",
-        "bot": "PrEP is a medicine to prevent HIV. HIV-negative people take it as a daily pill or a shot every two months. It works well when taken correctly."
-    },
-    {
-        "user": "what is PrEP?",
-        "bot": "PrEP is a medicine to prevent HIV. \n\nIt helps people who do not have HIV. \n\nThey take it to lower their chances of getting the virus. \n\nPrEP can be a daily pill or a shot every two months. \n\nIt works well when taken as directed."
-    },
-    {
-        "user": "Give a littel more details on this response: PrEP is a medicine to prevent HIV. \n\nIt helps people who do not have HIV. \n\nThey take it to lower their chances of getting the virus. \n\nPrEP can be a daily pill or a shot every two months. \n\nIt works well when taken as directed.",
-        "bot": "PrEP is a medicine that helps prevent HIV. \n\nIt is for people who do not have HIV. \n\nTaking PrEP lowers their chances of getting the virus. \n\nPrEP comes in two forms: \n\n1. A daily pill.\n2. A shot every two months.\n\nIt is important to take PrEP as directed for it to work well. \n\nBy doing this, people can protect themselves from HIV effectively."
-    },
-    {
-        "user": "hey",
-        "bot": "Hello! How can I help you today? If you have questions about HIV prevention or PrEP, feel free to ask!"
-    },
-    {
-        "user": "nuka enye PrEP?",
-        "bot": "PrEP b\u1ee5 \u1ecdgw\u1ee5 nke na-enyere igbochi HIV. A na-ejikwa ya na nd\u1ecb na-enwegh\u1ecb HIV. \n\nI nwere ike iji PrEP d\u1ecb ka pill kwa \u1ee5b\u1ecdch\u1ecb ma \u1ecd b\u1ee5 d\u1ecbka mgbochi kwa \u1ecdnwa ab\u1ee5\u1ecd. \u1ecc na-ar\u1ee5 \u1ecdr\u1ee5 nke \u1ecdma mgbe a na-ejikwa ya d\u1ecbka e kwuru. \n\n\u1ecc b\u1ee5r\u1ee5 na \u1ecbch\u1ecdr\u1ecd \u1ecbmatakwu, j\u1ee5\u1ecd m!"
-    },
-    {
-        "user": "edien na eye prep?",
-        "bot": "PrEP b\u1ee5 \u1ecdgw\u1ee5 nke na-enyere igbochi HIV. A na-ejikwa ya na nd\u1ecb na-enwegh\u1ecb HIV. \n\nI nwere ike iji PrEP d\u1ecb ka pill kwa \u1ee5b\u1ecdch\u1ecb ma \u1ecd b\u1ee5 d\u1ecbka mgbochi kwa \u1ecdnwa ab\u1ee5\u1ecd. \n\n\u1ecc na-ar\u1ee5 \u1ecdr\u1ee5 nke \u1ecdma mgbe a na-ejikwa ya d\u1ecbka e kwuru. \n\n\u1ecc b\u1ee5r\u1ee5 na \u1ecbch\u1ecdr\u1ecd \u1ecbmatakwu, j\u1ee5\u1ecd m!"
-    },
-    {
-        "user": "quel est prep?",
-        "bot": "PrEP est un m\u00e9dicament qui aide \u00e0 pr\u00e9venir le VIH. \n\nIl est destin\u00e9 aux personnes qui n'ont pas le VIH. \n\nPrendre PrEP r\u00e9duit les chances d'attraper le virus. \n\nPrEP peut \u00eatre pris sous forme de pilule quotidienne ou d'injection tous les deux mois. \n\nPour qu'il soit efficace, il est important de suivre les instructions. \n\nSi vous avez d'autres questions, n'h\u00e9sitez pas \u00e0 demander !"
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: PrEP est un m\u00e9dicament qui aide \u00e0 pr\u00e9venir le VIH. \n\nIl est destin\u00e9 aux personnes qui n'ont pas le VIH. \n\nPrendre PrEP r\u00e9duit les chances d'attraper le virus. \n\nPrEP peut \u00eatre pris sous forme de pilule quotidienne ou d'injection tous les deux mois. \n\nPour qu'il soit efficace, il est important de suivre les instructions. \n\nSi vous avez d'autres questions, n'h\u00e9sitez pas \u00e0 demander !",
-        "bot": "PrEP est un m\u00e9dicament pr\u00e9ventif contre le VIH. Il est pris quotidiennement ou par injection bimensuelle. Suivez les instructions pour une efficacit\u00e9 optimale."
-    },
-    {
-        "user": "What is HIV?",
-        "bot": "HIV is a virus. It attacks the immune system in your body. This makes it hard for you to fight off infections. \n\nMost people get HIV through unprotected sex or sharing needles. It can also be passed from a mother to her baby during pregnancy or breastfeeding. \n\nHIV does not spread through hugging or kissing. If not treated, it can lead to AIDS, which is a serious illness. \n\nGetting tested is the only way to know if you have HIV."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: HIV is a virus. It attacks the immune system in your body. This makes it hard for you to fight off infections. \n\nMost people get HIV through unprotected sex or sharing needles. It can also be passed from a mother to her baby during pregnancy or breastfeeding. \n\nHIV does not spread through hugging or kissing. If not treated, it can lead to AIDS, which is a serious illness. \n\nGetting tested is the only way to know if you have HIV.",
-        "bot": "HIV is a virus that weakens the immune system. It spreads through unprotected sex, sharing needles, and from mother to baby. It doesn\u2019t spread through hugging or kissing. Untreated HIV can lead to AIDS. Testing is the only way to know if you have HIV."
-    },
-    {
-        "user": "What is HIV",
-        "bot": "HIV is a virus. It attacks the immune system. This makes it hard for your body to fight infections. \n\nMost people get HIV through unprotected sex or sharing needles. It can also pass from mother to baby during pregnancy or breastfeeding. \n\nHIV does not spread through hugging or kissing. If not treated, it can lead to AIDS, which is serious. \n\nThe only way to know for sure if you have HIV is to get tested."
-    },
-    {
-        "user": "How do you get HIV?",
-        "bot": "You can get HIV in a few ways:\n\n1. Unprotected sex with someone who has HIV.\n2. Sharing needles or drug equipment with someone who has HIV.\n3. From a mother to her baby during pregnancy, childbirth, or breastfeeding.\n\nHIV does not spread through hugging, kissing, or sharing toothbrushes."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: You can get HIV in a few ways:\n\n1. Unprotected sex with someone who has HIV.\n2. Sharing needles or drug equipment with someone who has HIV.\n3. From a mother to her baby during pregnancy, childbirth, or breastfeeding.\n\nHIV does not spread through hugging, kissing, or sharing toothbrushes.",
-        "bot": "You can get HIV through unprotected sex, sharing needles, or from mother to baby. It doesn't spread through hugging, kissing, or sharing toothbrushes."
-    },
-    {
-        "user": "How do you get HIV?",
-        "bot": "You can get HIV in a few ways:\n\n1. Unprotected sex with someone who has HIV.\n2. Sharing needles or drug equipment with someone who has HIV.\n3. From a mother to her baby during pregnancy, childbirth, or breastfeeding.\n\nHIV does not spread through hugging, kissing, or sharing toothbrushes."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: You can get HIV in a few ways:\n\n1. Unprotected sex with someone who has HIV.\n2. Sharing needles or drug equipment with someone who has HIV.\n3. From a mother to her baby during pregnancy, childbirth, or breastfeeding.\n\nHIV does not spread through hugging, kissing, or sharing toothbrushes.",
-        "bot": "You can get HIV through unprotected sex, sharing needles, or from mother to baby. It doesn't spread through hugging, kissing, or sharing toothbrushes."
-    },
-    {
-        "user": "What is PrEP and how does it work?",
-        "bot": "PrEP stands for pre-exposure prophylaxis. It is a medicine that helps prevent HIV. \n\nYou take PrEP daily as a pill or get it as an injection every two months. \n\nPrEP works by stopping HIV from entering your body. It helps keep you safe if you have sex or inject drugs with someone who has HIV. \n\nWhen taken as directed, PrEP can lower your chances of getting HIV by up to 99%."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: PrEP stands for pre-exposure prophylaxis. It is a medicine that helps prevent HIV. \n\nYou take PrEP daily as a pill or get it as an injection every two months. \n\nPrEP works by stopping HIV from entering your body. It helps keep you safe if you have sex or inject drugs with someone who has HIV. \n\nWhen taken as directed, PrEP can lower your chances of getting HIV by up to 99%.",
-        "bot": "PrEP is medicine to prevent HIV. You take it daily as a pill or every two months as an injection. It stops HIV from entering your body. When used correctly, it lowers your chances of getting HIV by up to 99%."
-    },
-    {
-        "user": "How do I know if I am at risk for HIV?",
-        "bot": "You may be at risk for HIV if:\n\n1. You had unprotected sex with someone whose HIV status you didn't know.\n2. You had unprotected sex with someone who tested negative for HIV a long time ago.\n3. You had unprotected sex with someone living with HIV who is not on treatment.\n4. You have multiple sexual partners.\n5. You exchanged sex for money or goods.\n6. You had a bacterial sexually transmitted disease.\n7. You shared needles or drug equipment.\n\nIf none apply to you, your risk may be lower. You can learn more about your risk by using tools or talking to a doctor."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: You may be at risk for HIV if:\n\n1. You had unprotected sex with someone whose HIV status you didn't know.\n2. You had unprotected sex with someone who tested negative for HIV a long time ago.\n3. You had unprotected sex with someone living with HIV who is not on treatment.\n4. You have multiple sexual partners.\n5. You exchanged sex for money or goods.\n6. You had a bacterial sexually transmitted disease.\n7. You shared needles or drug equipment.\n\nIf none apply to you, your risk may be lower. You can learn more about your risk by using tools or talking to a doctor.",
-        "bot": "You may be at risk for HIV if you:\n\n1. Had unprotected sex without knowing your partner's HIV status.\n2. Had unprotected sex with someone who tested negative a long time ago.\n3. Had unprotected sex with someone living with HIV not on treatment.\n4. Have multiple sexual partners.\n5. Exchanged sex for money or goods.\n6. Had a bacterial sexually transmitted disease.\n7. Shared needles or drug equipment.\n\nIf none apply, your risk is likely lower. Talk to a doctor for more information."
-    },
-    {
-        "user": "what tools can be used to test HIV risk?",
-        "bot": "You can use online tools to check your HIV risk. These tools ask you questions about your sexual behavior and other factors. They help you understand your risk level. \n\nYou can also talk to a doctor or a health professional. They can give you more information about your risk and testing options. \n\nRegular testing is important to know your status. You can find testing sites near you using websites like gettested.cdc.gov."
-    },
-    {
-        "user": "what is HIV?",
-        "bot": "HIV stands for human immunodeficiency virus. \n\nIt is a virus that attacks the immune system. \n\nIf not treated, HIV can lead to AIDS, which is a serious disease. \n\nHIV is mostly spread through unprotected sex or sharing needles. \n\nYou can also get it from a mother during pregnancy or breastfeeding. \n\nHIV is not spread through hugging, kissing, or sharing drinks."
-    },
-    {
-        "user": "Give a littel more details on this response: HIV stands for human immunodeficiency virus. \n\nIt is a virus that attacks the immune system. \n\nIf not treated, HIV can lead to AIDS, which is a serious disease. \n\nHIV is mostly spread through unprotected sex or sharing needles. \n\nYou can also get it from a mother during pregnancy or breastfeeding. \n\nHIV is not spread through hugging, kissing, or sharing drinks.",
-        "bot": "HIV means human immunodeficiency virus. \n\nIt is a virus that weakens the immune system. \n\nThis makes it harder for the body to fight off infections. \n\nWithout treatment, HIV can advance to AIDS. \n\nAIDS is a serious illness that can be life-threatening. \n\nHIV mainly spreads through unprotected sex. \n\nIt can also spread by sharing needles with someone who has HIV. \n\nA mother can pass HIV to her baby during pregnancy or breastfeeding. \n\nHIV is not spread by hugging, kissing, or sharing drinks. \n\nYou can protect yourself by using condoms or taking PrEP."
-    },
-    {
-        "user": "what is HIV?",
-        "bot": "HIV means human immunodeficiency virus. \n\nIt is a virus that weakens the immune system. \n\nThis makes it harder for the body to fight off infections. \n\nIf not treated, HIV can lead to AIDS. \n\nAIDS is a serious illness that can be life-threatening. \n\nHIV spreads mainly through unprotected sex. \n\nIt can also be passed by sharing needles. \n\nA mother can pass HIV to her baby during pregnancy or breastfeeding. \n\nHIV is not spread by hugging, kissing, or sharing drinks. \n\nYou can protect yourself by using condoms or taking PrEP."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: HIV means human immunodeficiency virus. \n\nIt is a virus that weakens the immune system. \n\nThis makes it harder for the body to fight off infections. \n\nIf not treated, HIV can lead to AIDS. \n\nAIDS is a serious illness that can be life-threatening. \n\nHIV spreads mainly through unprotected sex. \n\nIt can also be passed by sharing needles. \n\nA mother can pass HIV to her baby during pregnancy or breastfeeding. \n\nHIV is not spread by hugging, kissing, or sharing drinks. \n\nYou can protect yourself by using condoms or taking PrEP.",
-        "bot": "HIV is a virus that weakens the immune system. It spreads through unprotected sex, sharing needles, or from mother to baby. It can lead to AIDS, a serious illness. It is not spread by hugging or kissing. Use condoms or PrEP to protect yourself."
-    },
-    {
-        "user": "how is HIV transmitted?",
-        "bot": "HIV is mainly transmitted through:\n\n1. Unprotected sex with someone who has HIV.\n2. Sharing needles or injection equipment with an infected person.\n3. A mother passing HIV to her baby during pregnancy, childbirth, or breastfeeding.\n4. Rarely, through blood transfusions or organ transplants from an infected donor.\n\nHIV is not spread through hugging, kissing, or sharing drinks."
-    },
-    {
-        "user": "Give a littel more details on this response: HIV is mainly transmitted through:\n\n1. Unprotected sex with someone who has HIV.\n2. Sharing needles or injection equipment with an infected person.\n3. A mother passing HIV to her baby during pregnancy, childbirth, or breastfeeding.\n4. Rarely, through blood transfusions or organ transplants from an infected donor.\n\nHIV is not spread through hugging, kissing, or sharing drinks.",
-        "bot": "HIV is transmitted mainly in these ways:\n\n1. **Unprotected Sex:** This includes vaginal and anal sex without using condoms. If one partner has HIV, the virus can enter the other partner's body through bodily fluids.\n\n2. **Sharing Needles:** If someone uses a needle or injection equipment that has been used by a person with HIV, they can get the virus. This is common in drug use.\n\n3. **Mother to Baby:** A mother with HIV can pass the virus to her baby during pregnancy, childbirth, or breastfeeding.\n\n4. **Blood Transfusions or Organ Transplants:** This is rare, but it can happen if contaminated blood or organs are given to someone.\n\nImportantly, HIV is not spread through casual contact. You cannot get HIV from hugging, kissing, or sharing drinks."
-    },
-    {
-        "user": "how is hiv transmitted?",
-        "bot": "HIV is mainly transmitted in these ways:\n\n1. **Unprotected Sex:** This includes vaginal or anal sex without condoms with someone who has HIV.\n\n2. **Sharing Needles:** Using needles or injection equipment that an infected person has used.\n\n3. **Mother to Baby:** An HIV-positive mother can pass the virus to her baby during pregnancy, childbirth, or breastfeeding.\n\n4. **Blood Transfusions or Organ Transplants:** This is rare, but it can happen with contaminated blood or organs.\n\nHIV is not spread through hugging, kissing, or sharing drinks."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: HIV is mainly transmitted in these ways:\n\n1. **Unprotected Sex:** This includes vaginal or anal sex without condoms with someone who has HIV.\n\n2. **Sharing Needles:** Using needles or injection equipment that an infected person has used.\n\n3. **Mother to Baby:** An HIV-positive mother can pass the virus to her baby during pregnancy, childbirth, or breastfeeding.\n\n4. **Blood Transfusions or Organ Transplants:** This is rare, but it can happen with contaminated blood or organs.\n\nHIV is not spread through hugging, kissing, or sharing drinks.",
-        "bot": "HIV spreads mainly through:\n\n1. Unprotected sex with an infected person.\n2. Sharing needles with someone infected.\n3. An HIV-positive mother to her baby.\n4. Rarely, through contaminated blood or organs.\n\nIt is not spread by hugging, kissing, or sharing drinks."
-    },
-    {
-        "user": "what is PrEP and how does it work?",
-        "bot": "PrEP stands for pre-exposure prophylaxis. It is a medicine that helps prevent HIV. \n\nPrEP is taken daily as a pill or through an injection every two months. It works by blocking HIV from infecting your body. \n\nWhen taken correctly, it can reduce the chance of getting HIV from sex by about 99%. \n\nIt's important to talk to a doctor to see if PrEP is right for you."
-    },
-    {
-        "user": "Give a littel more details on this response: PrEP stands for pre-exposure prophylaxis. It is a medicine that helps prevent HIV. \n\nPrEP is taken daily as a pill or through an injection every two months. It works by blocking HIV from infecting your body. \n\nWhen taken correctly, it can reduce the chance of getting HIV from sex by about 99%. \n\nIt's important to talk to a doctor to see if PrEP is right for you.",
-        "bot": "PrEP means pre-exposure prophylaxis. \n\nIt is a medicine that helps to stop HIV. \n\nYou can take PrEP in two ways: \n\n1. As a daily pill.\n2. As an injection every two months.\n\nPrEP works by blocking HIV from entering your body. \n\nWhen you take it correctly, it can lower your chance of getting HIV from sex by about 99%.\n\nIt's really important to talk with a doctor. They can help you decide if PrEP is right for you."
-    },
-    {
-        "user": "what is PrEP and how does it work?",
-        "bot": "PrEP stands for pre-exposure prophylaxis. \n\nIt is a medicine that helps prevent HIV. \n\nYou can take PrEP in two ways: \n\n1. As a daily pill.\n2. As an injection every two months.\n\nPrEP works by blocking HIV from entering your body. \n\nWhen taken correctly, it can lower your chance of getting HIV from sex by about 99%. \n\nIt's important to talk with a doctor to see if PrEP is right for you."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: PrEP stands for pre-exposure prophylaxis. \n\nIt is a medicine that helps prevent HIV. \n\nYou can take PrEP in two ways: \n\n1. As a daily pill.\n2. As an injection every two months.\n\nPrEP works by blocking HIV from entering your body. \n\nWhen taken correctly, it can lower your chance of getting HIV from sex by about 99%. \n\nIt's important to talk with a doctor to see if PrEP is right for you.",
-        "bot": "PrEP means pre-exposure prophylaxis. \n\nIt prevents HIV. \n\nYou can take it as a daily pill or an injection every two months. \n\nIt blocks HIV from entering your body. \n\nWhen taken correctly, it lowers your chance of getting HIV by about 99%. \n\nTalk to a doctor to see if it's right for you."
-    },
-    {
-        "user": "\u2022\tWhat is the difference between Oral and Injectable PrEP?",
-        "bot": "Oral PrEP is a daily pill you take to prevent HIV. Injectable PrEP is a shot you get every two months. Both methods work well to stop HIV, but you choose based on what fits your lifestyle. \n\nWith Oral PrEP, you need to remember to take a pill every day. With Injectable PrEP, you don't have to think about it for two months. Talk to your doctor to see which one is best for you!"
-    },
-    {
-        "user": "Give a littel more details on this response: Oral PrEP is a daily pill you take to prevent HIV. Injectable PrEP is a shot you get every two months. Both methods work well to stop HIV, but you choose based on what fits your lifestyle. \n\nWith Oral PrEP, you need to remember to take a pill every day. With Injectable PrEP, you don't have to think about it for two months. Talk to your doctor to see which one is best for you!",
-        "bot": "Oral PrEP is a pill you take every day. It helps stop HIV from entering your body. You need to remember to take it daily for it to work well.\n\nInjectable PrEP is a shot you get every two months. This means you don't have to take a pill every day. It can be easier for some people to remember.\n\nBoth Oral and Injectable PrEP are effective in preventing HIV. Talk to your doctor to find out which option fits your lifestyle better!"
-    },
-    {
-        "user": "What is the difference between Oral and Injectable PrEP?",
-        "bot": "Oral PrEP is a daily pill you take to prevent HIV. You need to remember to take it every day for it to work well.\n\nInjectable PrEP is a shot you get every two months. This can be easier for some people because they don\u2019t have to take a pill daily.\n\nBoth methods are effective in preventing HIV. Talk to your doctor to see which one fits your lifestyle better!"
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: Oral PrEP is a daily pill you take to prevent HIV. You need to remember to take it every day for it to work well.\n\nInjectable PrEP is a shot you get every two months. This can be easier for some people because they don\u2019t have to take a pill daily.\n\nBoth methods are effective in preventing HIV. Talk to your doctor to see which one fits your lifestyle better!",
-        "bot": "Oral PrEP is a daily pill. Injectable PrEP is a shot every two months. Both prevent HIV. Talk to your doctor about what works for you!"
-    },
-    {
-        "user": "how do i know if i am risk for HIV?",
-        "bot": "You can know your risk for HIV by looking at your actions and your partner's history. Here are some questions to consider: \n\n1. Have you had unprotected sex with someone whose HIV status you did not know?\n2. Have you had unprotected sex with someone who tested negative for HIV more than a year ago?\n3. Have you had unprotected sex with someone living with HIV who is not in treatment?\n4. Have you had multiple sexual partners at the same time?\n5. Have you traded sex for money or goods?\n6. Have you had a bacterial sexually transmitted disease?\n7. Have you shared needles or injection equipment?\n\nIf you answered yes to any of these, you may be at higher risk for HIV. It's best to talk to a doctor about your concerns and get tested."
-    },
-    {
-        "user": "Give a littel more details on this response: You can know your risk for HIV by looking at your actions and your partner's history. Here are some questions to consider: \n\n1. Have you had unprotected sex with someone whose HIV status you did not know?\n2. Have you had unprotected sex with someone who tested negative for HIV more than a year ago?\n3. Have you had unprotected sex with someone living with HIV who is not in treatment?\n4. Have you had multiple sexual partners at the same time?\n5. Have you traded sex for money or goods?\n6. Have you had a bacterial sexually transmitted disease?\n7. Have you shared needles or injection equipment?\n\nIf you answered yes to any of these, you may be at higher risk for HIV. It's best to talk to a doctor about your concerns and get tested.",
-        "bot": "You can learn your risk for HIV by checking your actions and your partner's history. Here are some questions to think about:\n\n1. Did you have unprotected sex with someone whose HIV status you did not know?\n2. Did you have unprotected sex with someone who tested negative for HIV over a year ago?\n3. Did you have unprotected sex with someone living with HIV who is not on treatment?\n4. Did you have multiple sexual partners at the same time?\n5. Did you trade sex for money or goods?\n6. Did you have a bacterial sexually transmitted disease?\n7. Did you share needles or injection equipment?\n\nIf you say \"yes\" to any of these, you might be at higher risk for HIV. It\u2019s a good idea to talk to a doctor about your concerns and get tested. Getting tested can help you make safe choices."
-    },
-    {
-        "user": "how do i know if i am risk for HIV?",
-        "bot": "You can check your risk for HIV by thinking about your actions and your partner's history. Here are some questions to consider:\n\n1. Have you had unprotected sex with someone whose HIV status you did not know?\n2. Have you had unprotected sex with someone who tested negative for HIV over a year ago?\n3. Have you had unprotected sex with someone living with HIV who is not in treatment?\n4. Have you had multiple sexual partners at the same time?\n5. Have you exchanged sex for money or goods?\n6. Have you had a bacterial sexually transmitted disease?\n7. Have you shared needles or injection equipment?\n\nIf you answered \"yes\" to any of these, you might be at higher risk for HIV. It\u2019s a good idea to talk to a doctor about your concerns and get tested."
-    },
-    {
-        "user": "do you really have to take PrEP everyday?",
-        "bot": "Yes, you should take PrEP every day for it to work well. Missing doses can make it less effective. If daily pills are hard for you, ask your doctor about injectable PrEP. This shot is given every two months and might be a good option!"
-    },
-    {
-        "user": "Give a littel more details on this response: Yes, you should take PrEP every day for it to work well. Missing doses can make it less effective. If daily pills are hard for you, ask your doctor about injectable PrEP. This shot is given every two months and might be a good option!",
-        "bot": "Yes, it's important to take PrEP every day. This helps keep you protected from HIV. If you miss doses, it may not work well. \n\nIf taking daily pills feels difficult, there's another choice. You can talk to your doctor about injectable PrEP. This is a shot you get every two months. It can be easier to manage. It still offers strong protection against HIV."
-    },
-    {
-        "user": "do you really have to take PrEP everyday?",
-        "bot": "Yes, you should take PrEP every day for it to work well. Missing doses can make it less effective. If daily pills are hard for you, ask your doctor about injectable PrEP. This shot is given every two months and can be a good option!"
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: Yes, you should take PrEP every day for it to work well. Missing doses can make it less effective. If daily pills are hard for you, ask your doctor about injectable PrEP. This shot is given every two months and can be a good option!",
-        "bot": "Take PrEP daily for best results. Missing doses lowers effectiveness. Ask your doctor about injectable PrEP, which is a shot every two months."
-    },
-    {
-        "user": "\u2022\tI think I may have had sex with someone with HIV. Can I take PrEP to be protected?",
-        "bot": "PrEP is for people who are HIV-negative to prevent getting HIV. If you think you may have been exposed to HIV, talk to a doctor right away. They can help you with the right steps. This may include post-exposure prophylaxis, which is different from PrEP. It works best if taken within 72 hours after exposure."
-    },
-    {
-        "user": "Give a littel more details on this response: PrEP is for people who are HIV-negative to prevent getting HIV. If you think you may have been exposed to HIV, talk to a doctor right away. They can help you with the right steps. This may include post-exposure prophylaxis, which is different from PrEP. It works best if taken within 72 hours after exposure.",
-        "bot": "PrEP is a medicine for people who do not have HIV. It helps prevent HIV if taken daily. If you think you were exposed to HIV, see a doctor quickly. They can give you the right advice. You might need a different medicine called post-exposure prophylaxis. This medicine works best if taken within 72 hours after exposure. It's important to act fast!"
-    },
-    {
-        "user": "I think I may have had sex with someone with HIV. Can I take PrEP to be protected?",
-        "bot": "PrEP is for people who do not have HIV. It helps prevent getting HIV if taken daily. If you think you were exposed to HIV, see a doctor right away. They can give you the right advice and may suggest a different medicine called post-exposure prophylaxis. This works best if taken within 72 hours after exposure. It's important to act quickly!"
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: PrEP is for people who do not have HIV. It helps prevent getting HIV if taken daily. If you think you were exposed to HIV, see a doctor right away. They can give you the right advice and may suggest a different medicine called post-exposure prophylaxis. This works best if taken within 72 hours after exposure. It's important to act quickly!",
-        "bot": "PrEP helps prevent HIV for those who are HIV-negative. If exposed, see a doctor fast for advice and possible post-exposure prophylaxis within 72 hours."
-    },
-    {
-        "user": "\u2022\tWhat are the side effects of PrEP, and how long do they usually last?",
-        "bot": "PrEP can cause mild side effects. These may include headaches, dizziness, and nausea. Most side effects go away in the first few weeks of use. Serious side effects are rare. If you have any concerns, talk to your doctor."
-    },
-    {
-        "user": "Give a littel more details on this response: PrEP can cause mild side effects. These may include headaches, dizziness, and nausea. Most side effects go away in the first few weeks of use. Serious side effects are rare. If you have any concerns, talk to your doctor.",
-        "bot": "PrEP can cause some mild side effects. Common ones are headaches, dizziness, and nausea. These side effects usually happen in the first few weeks. Most people find they go away quickly. Serious side effects are not common. If you feel worried about side effects, please talk to your doctor for advice."
-    },
-    {
-        "user": "What are the side effects of PrEP, and how long do they usually last?",
-        "bot": "PrEP can cause mild side effects. Common ones are headaches, dizziness, and nausea. These side effects usually happen in the first few weeks. Most people find they go away quickly. Serious side effects are rare. If you have any worries, talk to your doctor."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: PrEP can cause mild side effects. Common ones are headaches, dizziness, and nausea. These side effects usually happen in the first few weeks. Most people find they go away quickly. Serious side effects are rare. If you have any worries, talk to your doctor.",
-        "bot": "PrEP can cause mild side effects like headaches, dizziness, and nausea. They usually pass quickly. Serious side effects are rare. Talk to your doctor if you have worries."
-    },
-    {
-        "user": "will PrEP interact with my birth control?",
-        "bot": "No, PrEP does not interact with birth control. You can use them together safely. If you have more questions, talk to your doctor."
-    },
-    {
-        "user": "Give a littel more details on this response: No, PrEP does not interact with birth control. You can use them together safely. If you have more questions, talk to your doctor.",
-        "bot": "PrEP does not affect birth control. You can take both without worry. They work well together. If you have more questions about them, please ask your doctor."
-    },
-    {
-        "user": "will PrEP interact with my birth control?",
-        "bot": "No, PrEP does not interact with birth control. You can use them together safely. If you have more questions, talk to your doctor."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: No, PrEP does not interact with birth control. You can use them together safely. If you have more questions, talk to your doctor.",
-        "bot": "PrEP doesn't affect birth control. You can use them together. Ask your doctor if needed."
-    },
-    {
-        "user": "How do i know if i should use PrEP?",
-        "bot": "You should think about using PrEP if you are at high risk for HIV. Here are some signs:\n\n- You had unprotected sex with someone whose HIV status you didn't know.\n- You have a partner with HIV who is not on treatment.\n- You have multiple sexual partners.\n- You've had a sexually transmitted infection.\n- You share needles or injection equipment.\n\nTalk to your doctor to learn more about your risk and if PrEP is right for you."
-    },
-    {
-        "user": "Give a littel more details on this response: You should think about using PrEP if you are at high risk for HIV. Here are some signs:\n\n- You had unprotected sex with someone whose HIV status you didn't know.\n- You have a partner with HIV who is not on treatment.\n- You have multiple sexual partners.\n- You've had a sexually transmitted infection.\n- You share needles or injection equipment.\n\nTalk to your doctor to learn more about your risk and if PrEP is right for you.",
-        "bot": "You might consider PrEP if you are at high risk for HIV. Here are signs that show you may need it:\n\n- You had sex without a condom with someone whose HIV status you didn't know.\n- Your partner has HIV and isn\u2019t taking treatment.\n- You have more than one sexual partner.\n- You've had a sexually transmitted infection before.\n- You share needles or equipment when using drugs.\n\nIt's important to talk to your doctor. They can help you understand your risk and if PrEP is a good choice for you."
-    },
-    {
-        "user": "how do i know if i should use PrEP?",
-        "bot": "You should consider using PrEP if you are at high risk for HIV. Here are some signs that may apply to you:\n\n- You had unprotected sex with someone whose HIV status you didn't know.\n- Your partner has HIV and is not on treatment.\n- You have multiple sexual partners.\n- You've had a sexually transmitted infection before.\n- You share needles or injection equipment.\n\nTalk to your doctor to learn more about your risk and if PrEP is right for you."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: You should consider using PrEP if you are at high risk for HIV. Here are some signs that may apply to you:\n\n- You had unprotected sex with someone whose HIV status you didn't know.\n- Your partner has HIV and is not on treatment.\n- You have multiple sexual partners.\n- You've had a sexually transmitted infection before.\n- You share needles or injection equipment.\n\nTalk to your doctor to learn more about your risk and if PrEP is right for you.",
-        "bot": "Consider PrEP if you:\n\n- Had unprotected sex with an unknown HIV status.\n- Have a partner with untreated HIV.\n- Have multiple sexual partners.\n- Had a sexually transmitted infection.\n- Share needles.\n\nTalk to your doctor about your risk and PrEP."
-    },
-    {
-        "user": "What tools can help me learn more about my risk for HIV?",
-        "bot": "You can use the HIV Prevention Decider Tool. It helps you:\n\n1. Learn what puts women at risk for HIV.\n2. Check your chances of getting HIV.\n3. Discover how to prevent HIV.\n4. Find prevention methods that fit your values.\n5. Access additional resources on HIV prevention.\n\nThis tool is easy to use and takes about 20-60 minutes. You can skip sections if needed."
-    },
-    {
-        "user": "what are hallucinogens",
-        "bot": "I focus on HIV prevention and PrEP counseling. If you have questions about those topics, I'm here to help!"
-    },
-    {
-        "user": "what's the difference between prep and hiv",
-        "bot": "PrEP is a medicine to prevent HIV. It helps people who are at high risk of getting HIV. \n\nHIV is a virus that attacks the immune system. It can cause serious health issues if not treated. \n\nIn summary, PrEP prevents HIV, while HIV is an infection."
-    },
-    {
-        "user": "Give a littel more details on this response: PrEP is a medicine to prevent HIV. It helps people who are at high risk of getting HIV. \n\nHIV is a virus that attacks the immune system. It can cause serious health issues if not treated. \n\nIn summary, PrEP prevents HIV, while HIV is an infection.",
-        "bot": "Sure! \n\nPrEP stands for pre-exposure prophylaxis. It is a medicine that helps prevent HIV. People at high risk for HIV can benefit from it. \n\nHIV is a virus that weakens the immune system. This can make it hard for your body to fight infections. If not treated, HIV can lead to serious health issues over time.\n\nIn short, PrEP is a preventive tool. It helps keep you from getting HIV, while HIV is the infection itself. If you think you might be at risk, talk to your doctor about PrEP."
-    },
-    {
-        "user": "Do you really have to take PrEP every day?",
-        "bot": "Yes, taking PrEP every day is very important. It works best when taken daily. Missing doses can make it less effective. If you struggle with daily pills, talk to your doctor about other options."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: Yes, taking PrEP every day is very important. It works best when taken daily. Missing doses can make it less effective. If you struggle with daily pills, talk to your doctor about other options.",
-        "bot": "Take PrEP daily for best results. Missing doses can reduce its effectiveness. Talk to your doctor if daily pills are hard for you."
-    },
-    {
-        "user": "\u2022\tI think I may have had sex with someone with HIV. Can I take PrEP to be protected?",
-        "bot": "PrEP is for preventing HIV before exposure. If you think you were exposed already, talk to your doctor about post-exposure prophylaxis. This medication can help if taken within 72 hours after unprotected sex. It's important to get tested and seek medical advice right away."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: PrEP is for preventing HIV before exposure. If you think you were exposed already, talk to your doctor about post-exposure prophylaxis. This medication can help if taken within 72 hours after unprotected sex. It's important to get tested and seek medical advice right away.",
-        "bot": "PrEP prevents HIV before exposure. If exposed, see your doctor about post-exposure medication within 72 hours. Get tested soon."
-    },
-    {
-        "user": "What are the side effects of PrEP, and how long do they usually last?",
-        "bot": "The most common side effects of PrEP can include:\n\n- Headaches\n- Dizziness\n- Nausea\n\nThese side effects are usually mild. They often go away in 2-3 weeks. If you have concerns, talk to your doctor."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: The most common side effects of PrEP can include:\n\n- Headaches\n- Dizziness\n- Nausea\n\nThese side effects are usually mild. They often go away in 2-3 weeks. If you have concerns, talk to your doctor.",
-        "bot": "Common PrEP side effects are headaches, dizziness, and nausea. They are mild and go away in 2-3 weeks. Talk to your doctor if concerned."
-    },
-    {
-        "user": "Will PrEP interact with my birth control?",
-        "bot": "PrEP does not interact with birth control. You can use both safely. It's important to take them as directed. If you have more questions, talk to your doctor."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: PrEP does not interact with birth control. You can use both safely. It's important to take them as directed. If you have more questions, talk to your doctor.",
-        "bot": "PrEP and birth control can be used together safely. Take as directed. Ask your doctor if you have questions."
-    },
-    {
-        "user": "Can I drink while taking PrEP?",
-        "bot": "Yes, you can drink alcohol while taking PrEP. Just be careful not to overdo it. If you have any concerns, talk to your doctor."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: Yes, you can drink alcohol while taking PrEP. Just be careful not to overdo it. If you have any concerns, talk to your doctor.",
-        "bot": "You can drink alcohol with PrEP. Don't overdo it. Talk to your doctor if needed."
-    },
-    {
-        "user": "How do I know if I should use PrEP?",
-        "bot": "You may want to use PrEP if you:\n\n- Have unprotected sex with someone whose HIV status you don't know.\n- Have multiple sexual partners.\n- Have a partner who is living with HIV.\n- Share needles for drug use.\n\nTo decide if PrEP is right for you, talk to your doctor. They can help assess your risk and give advice."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: You may want to use PrEP if you:\n\n- Have unprotected sex with someone whose HIV status you don't know.\n- Have multiple sexual partners.\n- Have a partner who is living with HIV.\n- Share needles for drug use.\n\nTo decide if PrEP is right for you, talk to your doctor. They can help assess your risk and give advice.",
-        "bot": "Consider PrEP if you:\n\n- Have unprotected sex with unknown HIV status.\n- Have many sexual partners.\n- Have a partner with HIV.\n- Share needles.\n\nTalk to your doctor to assess your risk."
-    },
-    {
-        "user": "How can I tell my partner I want to take PrEP or discuss HIV prevention?",
-        "bot": "You can start by choosing a calm moment to talk. Here are some steps:\n\n1. **Be Honest**: Share your feelings about HIV and your health.\n2. **Ask Questions**: See how your partner feels about HIV prevention.\n3. **Share Facts**: Talk about how PrEP can help prevent HIV.\n4. **Listen**: Hear your partner's thoughts and feelings.\n5. **Support Each Other**: Discuss how you can both stay healthy together.\n\nRemember, it's important to have an open and caring conversation."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: You can start by choosing a calm moment to talk. Here are some steps:\n\n1. **Be Honest**: Share your feelings about HIV and your health.\n2. **Ask Questions**: See how your partner feels about HIV prevention.\n3. **Share Facts**: Talk about how PrEP can help prevent HIV.\n4. **Listen**: Hear your partner's thoughts and feelings.\n5. **Support Each Other**: Discuss how you can both stay healthy together.\n\nRemember, it's important to have an open and caring conversation.",
-        "bot": "Choose a calm time to talk. Steps:\n\n1. Be honest about HIV feelings.\n2. Ask partner's views on prevention.\n3. Share how PrEP helps.\n4. Listen to their thoughts.\n5. Support each other for health.\n\nHave an open conversation."
-    },
-    {
-        "user": "I\u2019m afraid that people will find out I\u2019m taking PrEP. How can I handle this while protecting my health?",
-        "bot": "It's okay to have concerns about privacy. Here are some tips:\n\n1. **Talk to your doctor**: They can keep your information private.\n2. **Use a private pharmacy**: Some pharmacies offer discreet options.\n3. **Grab a friend**: If you feel comfortable, share with a trusted friend for support.\n4. **Use online resources**: Learn about PrEP and HIV from safe websites.\n\nYour health is important. Protecting yourself is a priority."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: It's okay to have concerns about privacy. Here are some tips:\n\n1. **Talk to your doctor**: They can keep your information private.\n2. **Use a private pharmacy**: Some pharmacies offer discreet options.\n3. **Grab a friend**: If you feel comfortable, share with a trusted friend for support.\n4. **Use online resources**: Learn about PrEP and HIV from safe websites.\n\nYour health is important. Protecting yourself is a priority.",
-        "bot": "It's normal to worry about privacy. Tips:\n\n1. Talk to your doctor for privacy.\n2. Use a private pharmacy.\n3. Share with a trusted friend.\n4. Explore safe online resources.\n\nYour health matters!"
-    },
-    {
-        "user": "What is the difference between PrEP and HIV medications?",
-        "bot": "PrEP is for people who do not have HIV. It helps prevent HIV from entering the body. \n\nHIV medications are for people who have HIV. They help manage the virus and keep people healthy. \n\nSo, PrEP prevents HIV, while HIV medications treat it."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: PrEP is for people who do not have HIV. It helps prevent HIV from entering the body. \n\nHIV medications are for people who have HIV. They help manage the virus and keep people healthy. \n\nSo, PrEP prevents HIV, while HIV medications treat it.",
-        "bot": "PrEP prevents HIV for those without it. HIV medications treat those who have HIV."
-    },
-    {
-        "user": "What is it like to take PrEP?",
-        "bot": "Taking PrEP is usually simple. You take a pill every day or get an injection every two months. \n\nMany people feel comfortable taking PrEP. Some may have mild side effects like headaches or nausea at first. These side effects often go away after a few weeks.\n\nIt\u2019s important to keep regular doctor visits for check-ups. This helps make sure PrEP is working well for you.\n\nOverall, many feel more at ease knowing they are taking steps to prevent HIV."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: Taking PrEP is usually simple. You take a pill every day or get an injection every two months. \n\nMany people feel comfortable taking PrEP. Some may have mild side effects like headaches or nausea at first. These side effects often go away after a few weeks.\n\nIt\u2019s important to keep regular doctor visits for check-ups. This helps make sure PrEP is working well for you.\n\nOverall, many feel more at ease knowing they are taking steps to prevent HIV.",
-        "bot": "Taking PrEP is easy. You take a daily pill or get an injection every two months. Some may have mild side effects, but they go away. Regular doctor visits are important. Many feel safer knowing they are preventing HIV."
-    },
-    {
-        "user": "Do I still need to use condoms if I use PrEP?",
-        "bot": "Yes, it's a good idea to use condoms with PrEP. \n\nPrEP helps prevent HIV, but it doesn't protect against other sexually transmitted diseases. \n\nUsing condoms can lower your chances of getting HIV and other infections even more."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: Yes, it's a good idea to use condoms with PrEP. \n\nPrEP helps prevent HIV, but it doesn't protect against other sexually transmitted diseases. \n\nUsing condoms can lower your chances of getting HIV and other infections even more.",
-        "bot": "Use condoms with PrEP. PrEP prevents HIV but not other diseases. Condoms lower risks further."
-    },
-    {
-        "user": "I\u2019m afraid that my partner will be angry if I tell him I\u2019m using PrEP. How should I handle that?",
-        "bot": "It's important to talk openly with your partner. You deserve to protect yourself. \n\nYou can explain why you chose to use PrEP. Share that it helps keep you safe. \n\nYou can also say that you care about their health too. \n\nIf they react negatively, give them time to process. It's a big topic. \n\nYou can seek support from friends or a counselor if needed."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: It's important to talk openly with your partner. You deserve to protect yourself. \n\nYou can explain why you chose to use PrEP. Share that it helps keep you safe. \n\nYou can also say that you care about their health too. \n\nIf they react negatively, give them time to process. It's a big topic. \n\nYou can seek support from friends or a counselor if needed.",
-        "bot": "Talk openly with your partner about using PrEP. Explain it keeps you safe. If they react negatively, give them time. Seek support from friends or a counselor if needed."
-    },
-    {
-        "user": "I\u2019ve been sleeping with different people lately and I\u2019m kind of freaking out now. What if it\u2019s too late to start PrEP?",
-        "bot": "It's not too late to start PrEP! PrEP can help protect you from HIV. \n\nTalk to a doctor about starting it. They will guide you through the process. \n\nIt's important to get tested for HIV too. Don't worry, getting help now is a good step!"
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: It's not too late to start PrEP! PrEP can help protect you from HIV. \n\nTalk to a doctor about starting it. They will guide you through the process. \n\nIt's important to get tested for HIV too. Don't worry, getting help now is a good step!",
-        "bot": "It's not too late to start PrEP. Talk to a doctor about it. Get tested for HIV too."
-    },
-    {
-        "user": "Someone took advantage of me the other night and I\u2019m afraid that I might have gotten something from them. Would PrEP help me?",
-        "bot": "I'm really sorry to hear that happened. PrEP can help protect you from getting HIV, but it works best when taken before exposure. If you think you might have been exposed to HIV recently, it's important to see a doctor right away. They can talk to you about PrEP and other options like post-exposure prophylaxis. Please also consider getting tested for HIV and other infections. You deserve support and care."
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: I'm really sorry to hear that happened. PrEP can help protect you from getting HIV, but it works best when taken before exposure. If you think you might have been exposed to HIV recently, it's important to see a doctor right away. They can talk to you about PrEP and other options like post-exposure prophylaxis. Please also consider getting tested for HIV and other infections. You deserve support and care.",
-        "bot": "I'm sorry that happened. PrEP helps prevent HIV but works best before exposure. See a doctor ASAP if you think you've been exposed. Get tested for HIV and other infections. You deserve support."
-    },
-    {
-        "user": "This all seems meaningless why use PrEP we\u2019re all gonna get sick one day, no one lives forever.",
-        "bot": "I understand how you feel. Life can be tough, and worries about health are normal. \n\nUsing PrEP can help reduce the risk of getting HIV. It\u2019s about protecting yourself now. Many people live long, healthy lives with the right care. \n\nTaking steps to stay healthy can make a difference. If you have more questions about PrEP or HIV, I'm here to help!"
-    },
-    {
-        "user": "Summarize this reponse in fewest words possible: I understand how you feel. Life can be tough, and worries about health are normal. \n\nUsing PrEP can help reduce the risk of getting HIV. It\u2019s about protecting yourself now. Many people live long, healthy lives with the right care. \n\nTaking steps to stay healthy can make a difference. If you have more questions about PrEP or HIV, I'm here to help!",
-        "bot": "I understand. Life is tough and health worries are normal. PrEP helps reduce HIV risk. Many live long, healthy lives with good care. I'm here for any questions!"
-    },
-    {
-        "user": "what's hiv",
-        "bot": "HIV stands for human immunodeficiency virus. \n\nIt attacks the body's immune system. \n\nIf not treated, it can lead to AIDS, which is a severe stage of HIV. \n\nHIV is usually spread through unprotected sex or sharing needles. \n\nIt's important to get tested to know your status."
-    },
-    {
-        "user": "what's hiv",
-        "bot": "HIV stands for human immunodeficiency virus. \n\nIt attacks your immune system. \n\nIf not treated, it can lead to AIDS, a more serious stage. \n\nHIV is usually spread through unprotected sex or sharing needles. \n\nIt's important to get tested to know your status."
+        "user": "what if i'm scared to tell my spouse",
+        "bot": "It's normal to feel scared about sharing health concerns. Here are some tips:\n\n- Choose a good time to talk.  \n- Share your feelings honestly.  \n- Explain why this matters for your health.  \n- Consider getting support from a friend or counselor.  \n\nYou're not alone in this. Many people face similar situations."
     }
 ]

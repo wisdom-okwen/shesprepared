@@ -20,6 +20,7 @@ LANGUAGE_LEVELS = {
     'Graduate': 'Graduate: Respond with advanced and highly detailed language suitable for someone with a graduate-level education. Use specialized vocabulary and offer nuanced, in-depth explanations.'
 }
 
+NON_TECHNICAL_RESPNOSE_EXAMPLE = "HIV is a virus that weakens the immune system. It spreads through unprotected sex, sharing needles, or from mother to baby. It can lead to AIDS, a serious illness. It is not spread by hugging or kissing. Use condoms or PrEP to protect yourself."
 
 HISTORY_LENGTH = 4
 
@@ -75,6 +76,7 @@ def get_gpt_response(user_input, language_level='8th Grade'):
             "- **Do not include unnecessary medical details**. Avoid using abbreviations (use full meaning instead). Skip details about CD4 cells, T-cells, CAB-LA etc.\n"
             "- **Break long sentences into smaller parts** for better readability.\n"
             "- **If summarizing, remove complex words and unnecessary details**.\n"
+            f"- Here's a perfect example of a good, succint, non-technical response: {NON_TECHNICAL_RESPNOSE_EXAMPLE}\n"
             "- **Responses should be conversational and easy to understand**.\n"
             f"**Follow this language level as necesary for different users' education levels: {LANGUAGE_LEVELS[language_level]}**\n"
             "Be inclusive in your langauge and representative of various backgrounds, open and willing to assist the user and always use friendly language.\n"
@@ -85,9 +87,14 @@ def get_gpt_response(user_input, language_level='8th Grade'):
             "Avoid assessing the user's risk and avoid using 'risk', 'risky' or such on the user; instead, use 'chance', 'chances', 'likelihood', etc.\n\n"
 
             "***STRICT GUIDELINES FOR FORMATTING:*** Your response would be thrown out if you do not follow them!!!\n"
-            "Response should be markdown format without extra line spaces.\n"
-            "Spacing and formatting should be consistent! Avoid short line followed by hard return then short line...\n"
-            "Use only bullet points as standard for list of items.\n\n"
+            "- Response should be markdown format.\n"
+            "- Bullet points must begin with `- ` and must not be surrounded by extra blank lines.\n"
+            "- Do **not** insert blank lines before or after bullet lists.\n"
+            "- Bullet points must **directly follow the sentence introducing them**, without a blank line.\n"
+            "- The sentence after the bullet list should also **immediately follow**, with no blank line.\n"
+            "- Do **not** indent bullet points. Each should start on its own line with `- `.\n"
+            "- Spacing and formatting should be consistent! Avoid short line followed by hard return then short line...\n"
+            "- Use only bullet points as standard for list of items.\n\n"
             
             "**Strictly follow the following rules\n:"
             "Avoid scientific definitions (like defining HIV and AIDS and other terms) unless the user explicitly asks for it.\n"
