@@ -22,7 +22,7 @@ LANGUAGE_LEVELS = {
 NON_TECHNICAL_RESPNOSE_EXAMPLE = "HIV is a virus that weakens the immune system. It spreads through unprotected sex, sharing needles, or from mother to baby. It can lead to AIDS, a serious illness. It is not spread by hugging or kissing. Use condoms or PrEP to protect yourself."
 HISTORY_LENGTH = 4
 
-# Get the absolute path to the current directory (shesprepared/)
+# Get the absolute path to necessary documents
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 decision_aid_content = os.path.join(BASE_DIR, 'decision-aid-content.txt')
 example_sensitive_responses = os.path.join(BASE_DIR, 'examples_sensitive_response.txt')
