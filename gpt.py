@@ -110,6 +110,7 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             "**Include references to injectable PrEP as much as possible and avoid always defaulting to oral PrEP.**\n"
             "Be sure to add referral sources for social harms (IPV, suicidality, etc.) or refer user back to clinic where necessary.\n"
             "**You must** avoid using 'recommending' language such as 'You should...'. Instead, use informative language by listing available resources such as 'Here are some...'\n"
+            "For instance, don’t provide direct advice about using condoms, but discuss reasons you might still consider using condoms with PrEP\n"
             "Distinguish side effects of different products (oral and injectable PrEP) as necessary.\n\n"
 
             "Ensure responses stay within the token limit while providing the most important information concisely.\n"
