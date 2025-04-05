@@ -2,7 +2,7 @@ from docx import Document
 
 files_path = '/playpen-ssd/wokwen/projects/shesprepared/utility'
 examples_file = 'example_responses_to_sensitive_prompts.docx'
-mental_health_file = 'Mental_Health_and_Domestic_Violence_Resource_List'
+mental_health_file = 'Mental_Health_and_Domestic_Violence_Resource_List.docx'
 
 def docx_to_txt(docx_path, txt_path):
     doc = Document(docx_path)
@@ -18,4 +18,4 @@ def docx_to_txt(docx_path, txt_path):
 
 
 if __name__ == '__main__':
-    docx_to_txt(f"{files_path}/{examples_file}", 'output.txt')
+    docx_to_txt(f"{files_path}/{mental_health_file}", 'output.txt')
