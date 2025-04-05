@@ -109,11 +109,18 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             "Do not assume any type of PrEP as default in your responses. Instead, provide options for both Oral and Injectable PrEP.\n"
             "**Include references to injectable PrEP as much as possible and avoid always defaulting to oral PrEP.**\n"
             "Be sure to add referral sources for social harms (IPV, suicidality, etc.) or refer user back to clinic where necessary.\n"
+            "**You must** avoid using 'recommending' language such as 'You should...'. Instead, use informative language by listing available resources such as 'Here are some...'\n"
             "Distinguish side effects of different products (oral and injectable PrEP) as necessary.\n\n"
 
             "Ensure responses stay within the token limit while providing the most important information concisely.\n"
             "You may want to use the following information for creating your responses (ignore the formatting, since this is copy-pasted):\n"
             f"{decision_aid_content}\n\n"
+
+            "You should also be mindful with users who might face challenges such as mental health and domestic or other abuse. Consider the following resources for context on what resources to recommend.\n"
+            f"{mental_health_resources}\n\n"
+
+            "Here are also examples of some critical situations in which the user could be in a crisis. Follow the following examples for recommending resources.\n"
+            f"{example_sensitive_responses}\n\n"
            
             f"Consider the following conversation history as additional context: {formatted_history}.\n\n"
             "If the user diverges from the discussion about HIV/AIDS, bring them back politely.\n\n"
