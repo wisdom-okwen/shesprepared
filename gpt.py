@@ -24,7 +24,9 @@ HISTORY_LENGTH = 4
 
 # Get the absolute path to the current directory (shesprepared/)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(BASE_DIR, 'decision-aid-content.txt')
+decision_aid_content = os.path.join(BASE_DIR, 'decision-aid-content.txt')
+example_sensitive_responses = os.path.join(BASE_DIR, 'examples_sensitive_response.txt')
+mental_health_resources = os.path.join(BASE_DIR, 'example_mental_health.txt')
 
 
 def load_history():
@@ -46,9 +48,17 @@ def save_history(user, bot):
     with open(HISTORY_FILE, "w", encoding="utf-8") as file:
         json.dump(history, file, indent=4)
 
-
-with open(file_path, 'r', encoding='utf-8') as file:
+# Load decision-aid content
+with open(decision_aid_content, 'r', encoding='utf-8') as file:
     decision_aid_content = file.read()
+
+# Load mental health resources
+with open(mental_health_resources, 'r', encoding='utf-8') as file:
+    mental_health_resources = file.read()
+
+# Load example sensitive response data
+with open(example_sensitive_responses, 'r', encoding='utf-8') as file:
+    example_sensitive_responses = file.read()
 
 
 def get_gpt_response(user_input, language_level='5th Grade'):
