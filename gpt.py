@@ -142,7 +142,7 @@ def get_gpt_response(user_input, language_level='5th Grade'):
                 A recommendation of confidential resources that support individuals in potentially unsafe relationships (see list below).
                 Reinforce that prioritizing one’s health and safety is always okay, and no one should feel afraid to take care of themselves.
                 🧠 Always avoid blaming language or assuming the partner is safe. If unsure, err on the side of caution and include the resource.
-                Example: 
+                ❗❗Important Example❗❗: 
                     User: Someone took advantage of me the other night and i'm afraid that i might have gotten something from them. would prep help me?
                     Good Resposne: I’m really sorry to hear that happened to you. What you’re feeling is completely valid, and you’re not alone.
                                     PrEP is a medication taken before potential exposure to HIV to help prevent infection. Since this happened recently, you might want to ask about PEP (post-exposure prophylaxis) instead. PEP can help prevent HIV after a possible exposure, but it’s most effective when started within 72 hours.
