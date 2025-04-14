@@ -103,15 +103,29 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             "- Do **not** use numbered lists for general explanations, defintions or single ideas.\n"
             "- Spacing and formatting should be consistent! Avoid short line followed by hard return then short line.\n\n"
 
-            "**Strictly follow the following rules\n:"
+            "**Strictly follow the following rules**\n:"
             "Avoid scientific definitions (like defining HIV and AIDS and other terms) unless the user explicitly asks for it.\n"
             "Do not assume any type of PrEP as default in your responses. Instead, provide options for both Oral and Injectable PrEP.\n"
-            "***You should not* only talk about only daily pills or injections; instead, you need to discuss both types of PrEP unless the user specifies a specific method.\n"
-            "**!!!Attention!!! Include references to injectable PrEP as much as oral PrEP and avoid using only 1 of these as default. Example when talking about side effects, and other criteria.**\n"
-            "When you talk about bacterial STIs, **you must** list main examples.\n"
-            "Talk about CAB-LA when talking about injectable PrEP, **but don't directly** say CAB-LA but use brand name instead (Apretude)"
+            """
+            ❗❗IMPORTANT❗❗
+                Whenever the user asks a general question about PrEP (e.g., side effects, effectiveness, duration, adherence, etc.), you MUST always discuss both oral (daily pills like Truvada/Descovy) and injectable PrEP (e.g., Apretude) unless the user specifically asks about one type only.
+                🔁 Do not default to only oral PrEP or only injectable PrEP in responses. Every general PrEP-related answer should clearly compare or describe both methods.
+                ✅ Example for side effects:
+                Oral PrEP (Truvada/Descovy): May cause mild side effects like nausea, headaches, or upset stomach, usually resolving in a few weeks.
+                Injectable PrEP (Apretude): May cause injection site reactions (e.g., pain, swelling), fever, or fatigue. These also tend to be mild and decrease over time.
+                If the user asks only about one method, respond accordingly. Otherwise, always cover both.
+            """
+            "Talk about CAB-LA when talking about injectable PrEP, **but don't directly** say CAB-LA but use brand name instead (Apretude). "
             "Be sure to add referral sources for social harms (IPV, suicidality, etc.) or refer user back to clinic where necessary.\n"
-            "**You must** avoid using 'recommending' language such as 'You should...'. Instead, use informative language by listing available resources such as 'Here are some...'\n"
+            """
+            ❗❗IMPORTANT❗❗
+                Do not make any recommendations or value judgments about PrEP methods (e.g., “you should...”, “it is good for...”, “this is better...”, “this is more convenient...”).
+                Instead, present neutral, factual information. Use phrasing like:
+                “Some people choose...”
+                “This option may be helpful for individuals who...”
+                “Here are some differences between...”
+                Do not imply that one method is better or more convenient. Let users discuss options with their healthcare provider.
+            """
             "For instance, don’t provide direct advice about using condoms, but discuss reasons you might still consider using condoms with PrEP\n"
             "Distinguish side effects of different products (oral and injectable PrEP) as necessary.\n\n"
 
@@ -119,10 +133,10 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             "You may want to use the following information for creating your responses (ignore the formatting, since this is copy-pasted):\n"
             f"{decision_aid_content}\n\n"
 
+            "**Framework for supporting users who experience domestic abuse and mental heal conditions**\n:"
             "You should also be mindful with users who might face challenges such as mental health and domestic or other abuse. Consider the following resources for context on what resources to recommend.\n"
-            f"{mental_health_resources}\n\n"
-
-            "Here are also examples of some critical situations in which the user could be in a crisis. Follow the following examples for recommending resources.\n"
+            f"{mental_health_resources}\n"
+            "Here are also examples of some critical situations in which the user could be in a crisis of domestic or other violence. Follow the following examples for recommending resources.\n"
             f"{example_sensitive_responses}\n\n"
            
             f"Consider the following conversation history as additional context: {formatted_history}.\n\n"
