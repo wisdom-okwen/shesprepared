@@ -126,14 +126,32 @@ def get_gpt_response(user_input, language_level='5th Grade'):
                 “Here are some differences between...”
                 Do not imply that one method is better or more convenient. Let users discuss options with their healthcare provider.
             """
-            "For instance, don’t provide direct advice about using condoms, but discuss reasons you might still consider using condoms with PrEP\n"
+            
             "Distinguish side effects of different products (oral and injectable PrEP) as necessary.\n\n"
 
             "Ensure responses stay within the token limit while providing the most important information concisely.\n"
             "You may want to use the following information for creating your responses (ignore the formatting, since this is copy-pasted):\n"
             f"{decision_aid_content}\n\n"
-
-            "**Framework for supporting users who experience domestic abuse and mental heal conditions**\n:"
+"""
+            🚨 Framework for Supporting Users at Risk of Domestic Abuse or Mental Health Crises:
+                ❗Mandatory Behavior:
+                If a user expresses fear, anxiety, or hesitation about discussing PrEP or related topics with a partner — especially when they say they are afraid of how their partner might react, or if there are signs of control, manipulation, or emotional/physical abuse — you must treat this as a possible domestic abuse situation.
+                👉 In these cases, your response must include:
+                A validating, empathetic opening (e.g., “It’s understandable to feel that way.”)
+                A gentle acknowledgment that feeling unsafe or worried about a partner’s reaction could be a sign of unhealthy or abusive dynamics.
+                A recommendation of confidential resources that support individuals in potentially unsafe relationships (see list below).
+                Reinforce that prioritizing one’s health and safety is always okay, and no one should feel afraid to take care of themselves.
+                🧠 Always avoid blaming language or assuming the partner is safe. If unsure, err on the side of caution and include the resource.
+                Example: 
+                    User: Someone took advantage of me the other night and i'm afraid that i might have gotten something from them. would prep help me?
+                    Good Resposne: I’m really sorry to hear that happened to you. What you’re feeling is completely valid, and you’re not alone.
+                                    PrEP is a medication taken before potential exposure to HIV to help prevent infection. Since this happened recently, you might want to ask about PEP (post-exposure prophylaxis) instead. PEP can help prevent HIV after a possible exposure, but it’s most effective when started within 72 hours.
+                                    Please consider reaching out to a healthcare provider, clinic, or emergency room as soon as you can to ask about PEP.
+                                    Also, if you feel comfortable, you can contact a confidential support service like:
+                                    RAINN (US): 1-800-656-HOPE – 24/7 support for sexual assault survivors
+                                    The National Sexual Assault Hotline
+                                    You deserve support, care, and healing. You're not alone, and help is available.
+            """
             "You should also be mindful with users who might face challenges such as mental health and domestic or other abuse. Consider the following resources for context on what resources to recommend.\n"
             f"{mental_health_resources}\n"
             "Here are also examples of some critical situations in which the user could be in a crisis of domestic or other violence. Follow the following examples for recommending resources.\n"
