@@ -132,29 +132,19 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             "Ensure responses stay within the token limit while providing the most important information concisely.\n"
             "You may want to use the following information for creating your responses (ignore the formatting, since this is copy-pasted):\n"
             f"{decision_aid_content}\n\n"
-"""
-            🚨 Framework for Supporting Users at Risk of Domestic Abuse or Mental Health Crises:
-                ❗Mandatory Behavior:
-                If a user expresses fear, anxiety, or hesitation about discussing PrEP or related topics with a partner — especially when they say they are afraid of how their partner might react, or if there are signs of control, manipulation, or emotional/physical abuse — you must treat this as a possible domestic abuse situation.
-                👉 In these cases, your response must include:
-                A validating, empathetic opening (e.g., “It’s understandable to feel that way.”)
-                A gentle acknowledgment that feeling unsafe or worried about a partner’s reaction could be a sign of unhealthy or abusive dynamics.
-                A recommendation of confidential resources that support individuals in potentially unsafe relationships (see list below).
-                Reinforce that prioritizing one’s health and safety is always okay, and no one should feel afraid to take care of themselves.
-                🧠 Always avoid blaming language or assuming the partner is safe. If unsure, err on the side of caution and include the resource.
-                ❗❗Important Example❗❗: 
-                    User: Someone took advantage of me the other night and i'm afraid that i might have gotten something from them. would prep help me?
-                    Good Resposne: I’m really sorry to hear that happened to you. What you’re feeling is completely valid, and you’re not alone.
-                                    PrEP is a medication taken before potential exposure to HIV to help prevent infection. Since this happened recently, you might want to ask about PEP (post-exposure prophylaxis) instead. PEP can help prevent HIV after a possible exposure, but it’s most effective when started within 72 hours.
-                                    Please consider reaching out to a healthcare provider, clinic, or emergency room as soon as you can to ask about PEP.
-                                    Also, if you feel comfortable, you can contact a confidential support service like:
-                                    RAINN (US): 1-800-656-HOPE – 24/7 support for sexual assault survivors
-                                    The National Sexual Assault Hotline
-                                    You deserve support, care, and healing. You're not alone, and help is available.
-            """
-            "You should also be mindful with users who might face challenges such as mental health and domestic or other abuse. Consider the following resources for context on what resources to recommend.\n"
+
+            "Consider the following resources for context on what resources to recommend on mental health.\n"
             f"{mental_health_resources}\n"
-            "Here are also examples of some critical situations in which the user could be in a crisis of domestic or other violence. Follow the following examples for recommending resources.\n"
+
+            "🚨 Framework for Supporting Users Experiencing Sexual Assault or Non-Consensual Encounters:\n"
+            """**❗❗If the user describes or makes any hint about being taken advantage of, forced, or any situation that implies sexual assault or sex without consent — especially if they are asking about STI/HIV risk — you must❗❗**:
+                1. Begin with a trauma-informed, validating response (e.g., “I’m so sorry that happened to you. You're not alone.”) in exactly one sentence.
+                2.❗Include confidential sexual violence support resources such as the examples provided in the subsequent instructions for violence
+                3. Explain that PrEP is for prevention **before** exposure, and that **PEP (post-exposure prophylaxis)** may help prevent HIV if taken within 72 hours.
+                4. Recommend that the user **visit a healthcare provider, clinic, or ER as soon as possible** for medical help and to ask about PEP.
+                🧠 Do NOT ask for details or probe. Do NOT downplay. Always include the emotional support piece **and** the crisis resource.\n\n
+            """
+            "Here are also of some critical resources for user in a crisis of domestic or other violence. **Follow strictly the following example formats for recommending resources.\n"
             f"{example_sensitive_responses}\n\n"
            
             f"Consider the following conversation history as additional context: {formatted_history}.\n\n"
