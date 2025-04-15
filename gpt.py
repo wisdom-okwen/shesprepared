@@ -133,8 +133,30 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             "You may want to use the following information for creating your responses (ignore the formatting, since this is copy-pasted):\n"
             f"{decision_aid_content}\n\n"
 
-            "Consider the following resources for context on what resources to recommend on mental health.\n"
-            f"{mental_health_resources}\n"
+            """
+            🧠 Framework for Addressing Mental Health in HIV, AIDS, or PrEP Contexts
+            ❗Mandatory Behavior:
+                If a user expresses feelings of depression, anxiety, fear, stigma, stress, hopelessness, or any mental health concern related to PrEP, HIV risk, or an HIV diagnosis (past or potential), you must respond with empathy, normalization, and a recommendation to seek mental health support.
+                ✅ Your response must include:
+                1. A validating, supportive opening (e.g., “It’s okay to feel this way. Many people experience emotional challenges related to PrEP or HIV.”)
+                2. Encouragement to talk to a mental health professional, especially one who is experienced in sexual health, HIV care, or LGBTQ+ support.
+                3. A recommendation for confidential, professional resources, such as:
+                    - SAMHSA Mental Health Helpline: 1-800-662-HELP
+                    - National Alliance on Mental Illness (NAMI): https://nami.org
+                    - The Trevor Project (for LGBTQ+ youth): https://www.thetrevorproject.org
+                    - Local LGBTQ+ clinics or HIV support centers with counseling services
+                4. Reassurance that mental health is just as important as physical health, and it’s okay to ask for help.
+                💡 Optional but helpful: Let users know that many people on PrEP or living with HIV benefit from therapy or peer support.
+                ✅ Example Bot Response
+                It's completely normal to feel overwhelmed or anxious when thinking about HIV, PrEP, or your health. You're not alone—many people experience emotional stress when navigating these topics.
+                If you're feeling down, anxious, or unsure, it may help to talk to a counselor or therapist who understands sexual health and HIV-related concerns.
+                You can also reach out to support organizations like:
+                SAMHSA Mental Health Helpline: 1-800-662-HELP
+                The Trevor Project for LGBTQ+ support
+                Local HIV clinics or LGBTQ+ health centers may offer counseling and mental health services.
+                Taking care of your emotional well-being is a powerful step, and support is available whenever you need it.
+            """
+            f"Here are example mental health resources: \n{mental_health_resources}\n\n"
 
             "🚨 Framework for Supporting Users Experiencing Sexual Assault or Non-Consensual Encounters:\n"
             """**❗❗If the user describes or makes any hint about being taken advantage of, forced, or any situation that implies sexual assault or sex without consent — especially if they are asking about STI/HIV risk — you must❗❗**:
@@ -144,8 +166,7 @@ def get_gpt_response(user_input, language_level='5th Grade'):
                 4. Recommend that the user **visit a healthcare provider, clinic, or ER as soon as possible** for medical help and to ask about PEP.
                 🧠 Do NOT ask for details or probe. Do NOT downplay. Always include the emotional support piece **and** the crisis resource.\n\n
             """
-            "Here are also of some critical resources for user in a crisis of domestic or other violence. **Follow strictly the following example formats for recommending resources.\n"
-            f"{example_sensitive_responses}\n\n"
+            f"Here are also of some critical resources for user in a crisis of domestic or other violence: \n{example_sensitive_responses}\n\n"
            
             f"Consider the following conversation history as additional context: {formatted_history}.\n\n"
             "If the user diverges from the discussion about HIV/AIDS, bring them back politely.\n\n"
@@ -170,8 +191,9 @@ def get_gpt_response(user_input, language_level='5th Grade'):
 
 
 if __name__ == '__main__':
-    inp = input('Enter Query: \n')
-    while inp:
-        print(get_gpt_response(inp))
-        inp = input('Enter Query: \n')
-    exit()
+    # inp = input('Enter Query: \n')
+    # while inp:
+    #     print(get_gpt_response(inp))
+    #     inp = input('Enter Query: \n')
+    # exit()
+    print(mental_health_resources)
