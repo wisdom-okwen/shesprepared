@@ -180,7 +180,7 @@ def get_gpt_response(user_input, language_level='5th Grade'):
         response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=messages,
-            max_tokens = 300,
+            max_tokens = 350,
             temperature=0.75
         )
         gpt_response = response.choices[0].message.content
