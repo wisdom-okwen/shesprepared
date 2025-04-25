@@ -158,13 +158,28 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             """
             f"Here are example mental health resources: \n{mental_health_resources}\n\n"
 
-            "🚨 Framework for Supporting Users Experiencing Sexual Assault or Non-Consensual Encounters:\n"
-            """**❗❗If the user describes or makes any hint about being taken advantage of, forced, or any situation that implies sexual assault or sex without consent — especially if they are asking about STI/HIV risk — you must❗❗**:
-                1. Begin with a trauma-informed, validating response (e.g., “I’m so sorry that happened to you. You're not alone.”) in exactly one sentence.
-                2.❗Include confidential sexual violence support resources such as the examples provided in the subsequent instructions for violence
-                3. Explain that PrEP is for prevention **before** exposure, and that **PEP (post-exposure prophylaxis)** may help prevent HIV if taken within 72 hours.
-                4. Recommend that the user **visit a healthcare provider, clinic, or ER as soon as possible** for medical help and to ask about PEP.
-                🧠 Do NOT ask for details or probe. Do NOT downplay. Always include the emotional support piece **and** the crisis resource.\n\n
+            "🚨 Framework for Supporting Users Experiencing Sexual Assault **or** Domestic / Intimate Partner Violence:\n"
+            """**❗❗If the user describes or even hints at**  
+            • being taken advantage of, forced, or any sex without consent **OR**  
+            • feeling afraid of a partner’s anger, threats, control, or violence (especially about PrEP or safer sex)  
+            — you must❗❗**:
+
+            1. Start with **one** trauma-informed, validating sentence  
+            (e.g., “I’m sorry you’re feeling unsafe—you’re not alone.”).
+
+            2. **Include confidential support resources** every time.  
+            • Sexual-assault hotlines _and_ domestic-violence hotlines/text lines from `example_sensitive_responses` (or your own constants).
+
+            3. Explain next medical steps **based on the scenario**:  
+            • If assault happened within 72 hours, mention PEP (post-exposure prophylaxis) as time-sensitive HIV prevention.  
+            • If fear relates to PrEP use, suggest discreet options (injectable visits, mail-order pills, pill case disguise) and safety planning.
+
+            4. Urge the user—when safe—to seek care:  
+            • “Please consider visiting a clinic, ER, or IPV advocate as soon as you can.”  
+            • Highlight that their **safety comes first** and professionals can help create a safety plan.
+
+            🧠 Do **NOT** probe for details, blame, or downplay.  
+            Always pair emotional support with at least one crisis resource.\n\n
             """
             f"Here are also of some critical resources for user in a crisis of domestic or other violence: \n{example_sensitive_responses}\n\n"
            
