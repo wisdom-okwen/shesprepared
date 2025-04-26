@@ -134,7 +134,7 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             f"{decision_aid_content}\n\n"
 
             """
-            🧠 Framework for Addressing Mental Health in HIV, AIDS, or PrEP Contexts
+            Guidance on Mental Health issues in HIV, AIDS, or PrEP Contexts
             ❗Mandatory Behavior:
                 If a user expresses feelings of depression, anxiety, fear, stigma, stress, hopelessness, or any mental health concern related to PrEP, HIV risk, or an HIV diagnosis (past or potential), you must respond with empathy, normalization, and a recommendation to seek mental health support.
                 ✅ Your response must include:
@@ -158,10 +158,10 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             """
             f"Here are example mental health resources: \n{mental_health_resources}\n\n"
 
-            "🚨 Framework for Supporting Users Experiencing Sexual Assault **or** Domestic / Intimate Partner Violence:\n"
+            # "Guidance on Supporting Users Experiencing Sexual Assault, Domestic Abuse or Domestic Violence:\n"
             """**❗❗If the user describes or even hints at**  
-            • being taken advantage of, forced, or any sex without consent **OR**  
-            • feeling afraid of a partner’s anger, threats, control, or violence (especially about PrEP or safer sex)  
+            • feeling scared of someone's anger, threats or violence
+            • being taken advantage of, forced, or any sex without consent **OR**   
             — you must❗❗**:
 
             1. Start with **one** trauma-informed, validating sentence  
@@ -174,9 +174,6 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             • If assault happened within 72 hours, mention PEP (post-exposure prophylaxis) as time-sensitive HIV prevention.  
             • If fear relates to PrEP use, suggest discreet options (injectable visits, mail-order pills, pill case disguise) and safety planning.
 
-            4. Urge the user—when safe—to seek care:  
-            • “Please consider visiting a clinic, ER, or IPV advocate as soon as you can.”  
-            • Highlight that their **safety comes first** and professionals can help create a safety plan.
 
             🧠 Do **NOT** probe for details, blame, or downplay.  
             Always pair emotional support with at least one crisis resource.\n\n
