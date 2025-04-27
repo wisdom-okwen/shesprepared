@@ -152,8 +152,8 @@
 
         /* Language level styling */
         #language-level {
-            width: 100px;
-            display: none;
+            width: 60px;
+            margin: 0 5px;
         }
 
         .language-menu {
@@ -245,15 +245,15 @@
     <div class="chat-container">
         <div class="title-bar">
             <h1 class="title">ShesPrEPared - HIV Prevention Chatbot</h1>
-            <a href="/logout" class="btn btn-danger float-right">Logout</a>
             <div style="position: relative;">
-                <button class="btn btn-primary" id="language-level">Reading Level</button>
+                <button class="btn btn-info" id="language-level" title="Select Reading Level">RL</button>
                 <div class="language-menu" id="language-menu">
                     <button onclick="selectLanguageLevel('5th Grade')">5th Grade</button>
                     <button onclick="selectLanguageLevel('8th Grade')">8th Grade</button>
                     <button onclick="selectLanguageLevel('College')">College</button>
                     <button onclick="selectLanguageLevel('Graduate')">Graduate</button>
                 </div>
+                <a href="/logout" class="btn btn-danger float-right">Logout</a>
             </div>
         </div>
         <div id="messages"></div>
