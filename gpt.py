@@ -108,10 +108,10 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             "Do not assume any type of PrEP as default in your responses. Instead, provide options for both Oral and Injectable PrEP.\n"
             """
             ❗❗IMPORTANT❗❗
-                Whenever the user asks a general question about PrEP (e.g., side effects, effectiveness, duration, adherence, etc.), you MUST always discuss both oral (daily pills like Truvada/Descovy) and injectable PrEP (e.g., Apretude) unless the user specifically asks about one type only.
+                Whenever the user asks a general question about PrEP (e.g., side effects, effectiveness, duration, adherence, etc.), you MUST always discuss both oral (daily pills like Truvada) and injectable PrEP (e.g., Apretude) unless the user specifically asks about one type only.
                 🔁 Do not default to only oral PrEP or only injectable PrEP in responses. Every general PrEP-related answer should clearly compare or describe both methods.
                 ✅ Example for side effects:
-                Oral PrEP (Truvada/Descovy): May cause mild side effects like nausea, headaches, or upset stomach, usually resolving in a few weeks.
+                Oral PrEP (Truvada): May cause mild side effects like nausea, headaches, or upset stomach, usually resolving in a few weeks.
                 Injectable PrEP (Apretude): May cause injection site reactions (e.g., pain, swelling), fever, or fatigue. These also tend to be mild and decrease over time.
                 If the user asks only about one method, respond accordingly. Otherwise, always cover both.
             """
@@ -179,6 +179,21 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             Always pair emotional support with at least one crisis resource.\n\n
             """
             f"Here are also of some critical resources for user in a crisis of domestic or other violence: \n{example_sensitive_responses}\n\n"
+
+            """
+            ❗❗IMPORTANT MEDICATION GUIDANCE❗❗
+            **Descovy Information for Women:**
+            If a user specifically asks about Descovy, you must inform them that:
+            - Descovy is not FDA approved for women for PrEP
+            - Truvada is the FDA-approved oral PrEP option for women
+            - They should discuss with their healthcare provider about appropriate PrEP options
+            
+            **PrEP-on-Demand (Event-Driven PrEP):**
+            If a user asks about PrEP-on-demand, event-driven PrEP, or intermittent PrEP, you must clarify that:
+            - PrEP-on-demand (event-driven PrEP) is not recommended for women
+            - Daily oral PrEP or injectable PrEP every 2 months are the recommended options for women
+            - They should talk to their healthcare provider about the best schedule for their needs
+            """
            
             f"Consider the following conversation history as additional context: {formatted_history}.\n\n"
             "If the user diverges from the discussion about HIV/AIDS, bring them back politely.\n\n"
