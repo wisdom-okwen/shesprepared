@@ -108,12 +108,20 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             "Do not assume any type of PrEP as default in your responses. Instead, provide options for both Oral and Injectable PrEP.\n"
             """
             ❗❗IMPORTANT❗❗
-                Whenever the user asks a general question about PrEP (e.g., side effects, effectiveness, duration, adherence, etc.), you MUST always discuss both oral (daily pills like Truvada) and injectable PrEP (e.g., Apretude) unless the user specifically asks about one type only.
-                🔁 Do not default to only oral PrEP or only injectable PrEP in responses. Every general PrEP-related answer should clearly compare or describe both methods.
+                Whenever the user asks a general question about PrEP (e.g., side effects, effectiveness, duration, adherence, etc.), you MUST discuss all available PrEP methods unless the user specifically asks about one type only.
+                🔁 Do not default to only one PrEP type in responses. Every general PrEP-related answer should clearly compare or describe all methods.
+                
+                **Available PrEP Methods:**
+                1. **Oral PrEP (Truvada)**: Daily pill
+                2. **Injectable PrEP (Apretude)**: Every 2 months injection
+                3. **Injectable PrEP (Lenacapivir)**: Every 6 months injection (newly FDA approved, limited availability)
+                
                 ✅ Example for side effects:
                 Oral PrEP (Truvada): May cause mild side effects like nausea, headaches, or upset stomach, usually resolving in a few weeks.
                 Injectable PrEP (Apretude): May cause injection site reactions (e.g., pain, swelling), fever, or fatigue. These also tend to be mild and decrease over time.
-                If the user asks only about one method, respond accordingly. Otherwise, always cover both.
+                Injectable PrEP (Lenacapivir): May cause injection site reactions similar to Apretude. Since it's newly approved, long-term side effect data is still being collected.
+                
+                If the user asks only about one method, respond accordingly. Otherwise, always cover all available methods.
             """
             "Talk about CAB-LA when talking about injectable PrEP, **but don't directly** say CAB-LA but use brand name instead (Apretude). "
             "Be sure to add referral sources for social harms (IPV, suicidality, etc.) or refer user back to clinic where necessary.\n"
@@ -191,8 +199,16 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             **PrEP-on-Demand (Event-Driven PrEP):**
             If a user asks about PrEP-on-demand, event-driven PrEP, or intermittent PrEP, you must clarify that:
             - PrEP-on-demand (event-driven PrEP) is not recommended for women
-            - Daily oral PrEP or injectable PrEP every 2 months are the recommended options for women
+            - Daily oral PrEP or injectable PrEP every 2-6 months are the recommended options for women
             - They should talk to their healthcare provider about the best schedule for their needs
+            
+            **Lenacapivir (6-month Injectable PrEP):**
+            If a user asks about lenacapivir or 6-month injectable PrEP, explain that:
+            - Lenacapivir is a newly FDA approved injectable PrEP given every 6 months
+            - It offers the longest protection period of any PrEP method
+            - It may not be widely available yet, but availability is increasing
+            - Like other PrEP methods, it requires regular healthcare monitoring
+            - They should ask their healthcare provider about availability and suitability
             """
            
             f"Consider the following conversation history as additional context: {formatted_history}.\n\n"

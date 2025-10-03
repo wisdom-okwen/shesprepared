@@ -29,6 +29,12 @@ def test_chatbot():
         ("Can I take PrEP only when I need it?", "Intermittent PrEP"),
         ("Is event-driven PrEP safe for women?", "Event-driven PrEP safety"),
         
+        # Lenacapivir questions (NEW)
+        ("What is lenacapivir?", "Lenacapivir information"),
+        ("Tell me about the 6-month injectable PrEP", "6-month injectable"),
+        ("Is lenacapivir available now?", "Lenacapivir availability"),
+        ("How does lenacapivir compare to other PrEP options?", "Lenacapivir comparison"),
+        
         # General PrEP questions
         ("What are the side effects of PrEP?", "PrEP side effects"),
         ("What is PrEP?", "PrEP definition"),
@@ -44,6 +50,7 @@ def test_chatbot():
         ("Tell me about injectable PrEP", "Injectable PrEP info"),
         ("How often do I get the PrEP injection?", "Injection frequency"),
         ("What is Apretude?", "Apretude information"),
+        ("Compare all the injectable PrEP options", "Injectable comparison"),
         
         # Safety and interactions
         ("Can I use PrEP with birth control?", "PrEP birth control interaction"),
