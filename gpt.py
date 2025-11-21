@@ -24,9 +24,21 @@ HISTORY_LENGTH = 4
 
 # Get the absolute path to necessary documents
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-decision_aid_content = os.path.join(BASE_DIR, 'decision-aid-content.txt')
-example_sensitive_responses = os.path.join(BASE_DIR, 'examples_sensitive_response.txt')
-mental_health_resources = os.path.join(BASE_DIR, 'example_mental_health.txt')
+DATA_DIR = os.path.join(BASE_DIR, 'data')
+
+decision_aid_content_path = os.path.join(DATA_DIR, 'decision-aid-content.txt')
+example_sensitive_responses_path = os.path.join(DATA_DIR, 'examples_sensitive_response.txt')
+mental_health_resources_path = os.path.join(DATA_DIR, 'example_mental_health.txt')
+
+
+CURATED_FILES = {
+    "Bekker 2024 Trial Summary": os.path.join(DATA_DIR, 'Bekker_2024_curated.txt'),
+    "WHO 2025 Guidelines": os.path.join(DATA_DIR, 'WHOguidelines_curated.txt'),
+    "CDC 2025 Lenacapavir Recommendation": os.path.join(DATA_DIR, 'Patel_2025_CDC_curated.txt'),
+    "Gilead Yeztugo Approval": os.path.join(DATA_DIR, 'gilead_sept_curated.txt'),
+    "PrEPWatch Lenacapavir Overview": os.path.join(DATA_DIR, 'PrEPWatchPage_curated.txt'),
+    "Lenacapavir Source Index": os.path.join(DATA_DIR, '10125_LENsources_curated.txt'),
+}
 
 
 def load_history():
@@ -49,16 +61,35 @@ def save_history(user, bot):
         json.dump(history, file, indent=4)
 
 # Load decision-aid content
-with open(decision_aid_content, 'r', encoding='utf-8') as file:
+with open(decision_aid_content_path, 'r', encoding='utf-8') as file:
     decision_aid_content = file.read()
 
 # Load mental health resources
-with open(mental_health_resources, 'r', encoding='utf-8') as file:
+with open(mental_health_resources_path, 'r', encoding='utf-8') as file:
     mental_health_resources = file.read()
 
 # Load example sensitive response data
-with open(example_sensitive_responses, 'r', encoding='utf-8') as file:
+with open(example_sensitive_responses_path, 'r', encoding='utf-8') as file:
     example_sensitive_responses = file.read()
+
+
+def load_curated_references() -> str:
+    """Load curated resource files into a combined reference string."""
+    curated_sections = []
+    for label, path in CURATED_FILES.items():
+        if not os.path.exists(path):
+            continue
+        try:
+            with open(path, 'r', encoding='utf-8') as file:
+                content = file.read().strip()
+        except OSError:
+            continue
+        if content:
+            curated_sections.append(f"## {label}\n{content}")
+    return "\n\n".join(curated_sections)
+
+
+curated_reference_material = load_curated_references()
 
 
 def get_gpt_response(user_input, language_level='5th Grade'):
@@ -140,6 +171,8 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             "Ensure responses stay within the token limit while providing the most important information concisely.\n"
             "You may want to use the following information for creating your responses (ignore the formatting, since this is copy-pasted):\n"
             f"{decision_aid_content}\n\n"
+            "Curated references summarising newly approved injectable PrEP guidance and clinical evidence:\n"
+            f"{curated_reference_material}\n\n"
 
             """
             Guidance on Mental Health issues in HIV, AIDS, or PrEP Contexts
