@@ -1,0 +1,126 @@
+PURPOSE 1 Trial – Key Facts for Chatbot (NEJM 2024, Bekker et al.)
+
+1. Study Overview
+- Type: Phase 3, double-blind, randomized, controlled trial.
+- Location: South Africa and Uganda.
+- Population: Cisgender adolescent girls and young women, age 16–25, HIV-negative at baseline, sexually active, not using PrEP in last 3 months.
+- Goal: Compare effectiveness and safety of long-acting injectable PrEP vs daily oral PrEP for HIV prevention in cisgender women.
+
+2. Interventions (Arms)
+- Arm 1: Lenacapavir (LEN)
+  - 927 mg subcutaneous injection every 26 weeks (twice yearly).
+  - Plus daily oral placebo tablet.
+- Arm 2: F/TAF (Descovy for PrEP)
+  - Daily oral tablet: Emtricitabine 200 mg + Tenofovir alafenamide 25 mg.
+  - Plus placebo injection every 26 weeks.
+- Arm 3: F/TDF (Truvada) – active control
+  - Daily oral tablet: Emtricitabine 200 mg + Tenofovir disoproxil fumarate 300 mg.
+  - Plus placebo injection every 26 weeks.
+
+3. Sample Size (Modified Intention-to-Treat)
+- Total randomized and HIV-negative at baseline: 5,338 participants.
+  - Lenacapavir: 2,134 participants.
+  - F/TAF: 2,136 participants.
+  - F/TDF: 1,068 participants.
+
+4. HIV Incidence – Core Numbers
+Background HIV incidence (in screened population not on PrEP):
+- 2.41 infections per 100 person-years (95% CI: 1.82–3.19).
+
+Observed HIV incidence in randomized arms:
+- Lenacapavir (LEN):
+  - 0 infections / 2,134 participants.
+  - 0.00 per 100 person-years (95% CI: 0.00–0.19).
+  - Significantly lower than both background incidence and F/TDF.
+
+- F/TAF (Descovy):
+  - 39 infections / 2,136 participants.
+  - 2.02 per 100 person-years (95% CI: 1.44–2.76).
+  - Not significantly different from background incidence.
+
+- F/TDF (Truvada):
+  - 16 infections / 1,068 participants.
+  - 1.69 per 100 person-years (95% CI: 0.96–2.74).
+  - Similar to F/TAF when adherence is low.
+
+Relative comparisons (incidence rate ratios):
+- LEN vs background: 0.00 (95% CI: 0.00–0.04), p < 0.001.
+- LEN vs F/TDF: 0.00 (95% CI: 0.00–0.10), p < 0.001.
+- F/TAF vs background: 0.84 (95% CI: 0.55–1.28), p = 0.21 (no significant difference).
+- F/TAF vs F/TDF: 1.20 (95% CI: 0.67–2.14) (no meaningful difference).
+
+Core message for chatbot:
+- Lenacapavir injections every 6 months showed 100% protection in this study’s follow-up period.
+- Daily oral PrEP can also be highly effective, but only with good adherence.
+
+5. Adherence Findings
+- Adherence to daily F/TAF and F/TDF was generally low.
+- Measured using tenofovir diphosphate levels in dried blood spots.
+- Most participants on F/TAF or F/TDF had low or undetectable drug levels (<2 doses/week).
+- Case–control analysis for F/TAF:
+  - Medium or high adherence (≥2 doses/week) was associated with much lower odds of HIV infection compared with low adherence (odds ratio ≈ 0.11).
+Key takeaway:
+- Daily oral PrEP works well when taken consistently.
+- Low adherence explains why F/TAF and F/TDF arms did not significantly outperform background incidence.
+
+6. Safety and Side Effects
+6.1. General Safety
+- Common non-injection adverse events (similar across arms):
+  - Headache, urinary tract infection, genital chlamydia, upper respiratory infection.
+- Grade 3 or higher adverse events were uncommon (~4–5%) and similar in all groups.
+- Serious adverse events: 2.8–4.0% across groups, not clearly related to study drugs.
+- Six deaths occurred (all in F/TAF group), none judged drug-related (e.g., accidents, cardiomyopathy, ovarian cancer).
+
+6.2. Injection-Site Reactions (Lenacapavir vs placebo injection)
+- Any injection-site reaction:
+  - Lenacapavir: 68.8% of participants.
+  - Placebo injection (F/TAF + F/TDF participants): 34.9%.
+- Mostly mild (grade 1–2) nodules, pain, or swelling.
+- Grade 3 reactions were rare; no grade 4 or serious injection-site events.
+- Discontinuation due to injection-site reactions:
+  - Lenacapavir: 0.2% (4 participants).
+  - Placebo injection: 0%.
+- Frequency and intensity of injection-site reactions decreased with subsequent injections.
+
+6.3. Pregnancy
+- 510 pregnancies in 487 participants:
+  - Lenacapavir: 193 pregnancies.
+  - F/TAF: 219 pregnancies.
+  - F/TDF: 98 pregnancies.
+- Outcomes (at interim analysis):
+  - ~24% births, ~13% spontaneous abortions, ~18% induced abortions; rest ongoing.
+- One congenital anomaly (polydactyly) in lenacapavir group, considered unrelated to study drug and consistent with family history.
+- HIV infections during pregnancy:
+  - 0 in Lenacapavir group.
+  - 4 in F/TAF group.
+  - 1 in F/TDF group.
+
+7. Population Characteristics (High-Level)
+- Median age: 21 years (range 16–25; one participant was 26 at randomization).
+- >99% identified as Black.
+- Majority had secondary school education; small minority had college/university.
+- ~80% had previous HIV testing; ~6% had previous PrEP use.
+- High baseline prevalence of STIs (e.g., ~25% chlamydia, ~9% gonorrhea, ~7–8% trichomonas, ~3% syphilis).
+
+8. Practical Counseling Takeaways for the Chatbot
+The chatbot should be able to say things like:
+
+1) On effectiveness of Lenacapavir:
+- “In a large trial of over 5,000 young cisgender women in South Africa and Uganda, no one who received the twice-yearly injectable PrEP medicine Lenacapavir acquired HIV during the study period.”
+- “Lenacapavir injections every 6 months showed extremely high protection against HIV when given on schedule.”
+
+2) On effectiveness of daily oral PrEP:
+- “Daily oral PrEP medications like Truvada (F/TDF) and Descovy (F/TAF) can be highly effective, but this study showed that many young women had trouble taking the pills consistently.”
+- “When adherence was good (2–4+ doses per week), protection against HIV was much higher. The main problem wasn’t the medicine, but remembering or being able to take it regularly.”
+
+3) On choice of PrEP method:
+- “Twice-yearly injectable PrEP can be a good option for people who find it hard to take a pill daily or who want a more discreet method.”
+- “Daily pills remain an important option, especially for people who can maintain consistent daily adherence and prefer oral medication.”
+
+4) On side effects:
+- “Most side effects were mild. For injections, many people felt small nodules or soreness at the injection site, especially after early doses, but these reactions usually got better over time and rarely led to stopping treatment.”
+- “Serious side effects were rare and similar across all groups.”
+
+5) On overall message:
+- “Injectable PrEP given every 6 months offers a powerful new prevention choice for cisgender women, especially in high-HIV-burden settings.”
+- “Regardless of the method, the most important factor is choosing a PrEP option that you can stick with over time.”

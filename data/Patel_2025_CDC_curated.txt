@@ -1,0 +1,28 @@
+CDC Clinical Recommendation: Injectable Lenacapavir for PrEP (MMWR Vol. 74, No. 35; September 18, 2025)
+Authors: Patel RR et al. U.S. Centers for Disease Control and Prevention. Public document.
+
+Headline Guidance
+- Strong recommendation (high-certainty GRADE evidence) to offer subcutaneous lenacapavir every 6 months for PrEP to people ≥35 kg who would benefit from HIV prevention.
+- Efficacy: PURPOSE 1 (cisgender women, South Africa/Uganda) reported 0 infections over 52 weeks; PURPOSE 2 (men and gender-diverse participants across 8 countries) reported 2 infections with protective drug levels, indicating 96% relative risk reduction vs. no PrEP and 89% vs. daily TDF/FTC.
+- Safety: Adverse events similar to oral TDF/FTC except for higher rates of injection-site nodules/pain, which were mostly grade 1–2; discontinuation due to injection reactions ≤1.2%.
+
+Clinical Implementation Checklist
+- Eligibility: assess HIV risk behaviors/contexts, confirm weight ≥35 kg, exclude acute HIV symptoms. Obtain laboratory antigen/antibody test within 7 days before first injection; add RNA test at baseline when available (do not delay dosing while awaiting result).
+- Dosing: Day 1 two 1.5 mL injections (total 927 mg) plus two 300 mg tablets; Day 2 two 300 mg tablets; maintenance injection every 26 weeks ±2 weeks.
+- Follow-Up: repeat blood-based antigen/antibody test before each injection; counsel on adherence, risk-reduction, condoms, STI screening, mental health and social support; monitor nodules (may persist months) and educate on proper injection technique (90° angle, abdomen or anterior thigh).
+- Missed Dose Strategy: if >14 days late, start weekly 300 mg oral bridging up to 6 months or switch to alternative PrEP; if >28 weeks since last injection with no oral cover, restart full initiation. Transition to another PrEP option within 28 weeks of last injection when stopping LEN to cover the pharmacokinetic tail.
+
+Special Populations & Considerations
+- Pregnancy/Breastfeeding: limited data show no safety signal; shared decision-making encouraged with ongoing surveillance (report cases to Antiretroviral Pregnancy Registry).
+- Hepatitis B: screen before switching from tenofovir regimens; ensure vaccination or provide alternative HBV therapy if tenofovir discontinued.
+- Drug Interactions: adjust for strong/moderate CYP3A inducers (e.g., rifampin, certain anticonvulsants); monitor for increased exposure of CYP3A/P-gp substrates up to 9 months post-injection.
+
+Programmatic Takeaways for ShesPrEPared
+- Align clinic workflows with CDC Box guidance (testing cadence, counseling scripts, missed-dose playbooks).
+- Integrate LEN into comprehensive packages alongside oral PrEP, CAB-LA, condoms, STI management, reproductive health, and behavioral support.
+- Establish reminder systems (texts/calls) and early follow-ups to reinforce adherence, especially after initiation.
+- Document injections, adverse events, pregnancies, and resistance testing outcomes to feed into national surveillance.
+- Leverage CDC PrEPLine (855-448-7737) and National HIV PrEP Curriculum for provider consultation and training.
+
+Knowledge Gaps Highlighted by CDC
+- Effectiveness in people who inject drugs, long-term persistence, management of resistance or delayed dosing, and real-world service models remain under study (PURPOSE 4–5, implementation science).

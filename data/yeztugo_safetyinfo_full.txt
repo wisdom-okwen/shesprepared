@@ -1,0 +1,504 @@
+YEZTUGO® (lenacapavir) - Prescribing Information & Safety Details
+
+CLINICAL REFERENCE DOCUMENT - NOT FOR PATIENT USE
+Use Patient Information sheets for patient education
+
+Last Revised: June 2025
+
+---
+
+HIGHLIGHTS OF PRESCRIBING INFORMATION
+
+MEDICATION:
+• YEZTUGO (lenacapavir) tablets for oral use
+• YEZTUGO (lenacapavir) injection for subcutaneous use
+• Initial US Approval: 2022
+
+INDICATION:
+Pre-exposure prophylaxis (PrEP) to reduce risk of sexually acquired HIV-1 in adults and adolescents weighing at least 35 kg who are at risk for HIV-1 acquisition.
+
+---
+
+⚠️ BLACK BOX WARNING: RISK OF DRUG RESISTANCE WITH UNDIAGNOSED HIV-1 INFECTION
+
+CRITICAL SAFETY INFORMATION:
+• Individuals MUST be tested for HIV-1 BEFORE initiating YEZTUGO
+• Testing required with EACH subsequent injection
+• Must use FDA-approved test capable of diagnosing acute or primary HIV-1 infection
+• Drug-resistant HIV-1 variants identified with YEZTUGO use in people with undiagnosed HIV-1
+• Do NOT initiate unless negative status confirmed
+• If HIV-1 acquired while on YEZTUGO, must transition to complete HIV treatment regimen immediately
+
+---
+
+DOSAGE FORMS AND STRENGTHS
+
+TABLETS:
+• 300 mg lenacapavir per tablet
+• Beige, capsule-shaped, film-coated tablets
+• Debossed with 'GSI' on one side and '62L' on other side
+
+INJECTION:
+• 463.5 mg/1.5 mL (309 mg/mL) per vial
+• Single-dose vials only
+• Sterile, preservative-free solution
+• Clear, yellow appearance with no visible particles
+
+---
+
+CONTRAINDICATIONS
+
+YEZTUGO IS CONTRAINDICATED IN:
+• Individuals with unknown HIV-1 status
+• Individuals with positive (confirmed) HIV-1 status
+
+---
+
+INDICATIONS AND USAGE
+
+APPROVED USES:
+• Pre-exposure prophylaxis (PrEP) to reduce risk of sexually acquired HIV-1
+• For adults and adolescents weighing at least 35 kg (77 lbs)
+• For individuals at risk for HIV-1 acquisition
+• REQUIREMENT: Negative HIV-1 test prior to initiating YEZTUGO
+
+---
+
+DOSAGE AND ADMINISTRATION
+
+2.1 HIV-1 SCREENING REQUIREMENTS:
+• Screen ALL individuals for HIV-1 BEFORE initiating YEZTUGO
+• Screen prior to EACH subsequent injection
+• Screen additionally as clinically appropriate
+• Use FDA-approved test for acute or primary HIV-1 infection
+
+TESTING PROTOCOL:
+For initial screening:
+• If antigen/antibody test used with negative results, confirm with RNA-specific assay
+• RNA confirmation may occur after YEZTUGO initiation
+• RNA-specific testing required even if results available after initiation
+
+For ongoing screening:
+• Negative results from rapid point-of-care antigen/antibody test must be confirmed with more sensitive assay
+
+2.2 ADHERENCE REQUIREMENTS:
+Healthcare providers should select individuals who:
+• Agree to required testing schedule
+• Agree to every 6-month injection dosing
+• Understand importance of adherence to scheduled visits
+• Understand adherence reduces HIV-1 acquisition risk and resistance development
+
+2.3 RECOMMENDED DOSAGE SCHEDULE:
+
+INITIATION PHASE:
+Day 1:
+• 927 mg by subcutaneous injection (2 × 1.5 mL injections)
+• 600 mg orally (2 × 300 mg tablets)
+
+Day 2:
+• 600 mg orally (2 × 300 mg tablets)
+
+CONTINUATION PHASE (After Initiation Complete):
+• 927 mg by subcutaneous injection (2 × 1.5 mL injections)
+• Every 6 months (26 weeks) from date of last injection
+• Flexible window: +/- 2 weeks
+
+ORAL TABLET ADMINISTRATION:
+• May be taken with or without food
+
+2.4 DOSING SCHEDULE FOR MISSED DOSES
+
+MISSED ORAL INITIATION DOSE:
+• If Day 2 oral dose (600 mg) is missed, take as soon as possible
+• Do NOT take Day 1 and Day 2 oral doses on same day
+
+ANTICIPATED DELAYED INJECTIONS:
+• If scheduled 6-month injection anticipated to be delayed >2 weeks:
+  - May use YEZTUGO tablets on interim basis
+  - Up to 6 months if needed
+  - Until injections resume
+
+Interim Oral Dosing (26-28 weeks since last injection):
+• 300 mg orally once every 7 days
+• Resume continuation injection dosage within 7 days after last oral dose
+
+MISSED INJECTIONS:
+• If >28 weeks since last injection AND oral tablets NOT taken:
+  - Clinically reassess individual
+  - Ensure individual remains HIV-1 negative
+  - Restart with complete initiation dosing from Day 1 (if appropriate)
+  - Then resume continuation injection dosing
+
+Important Note: Adherence to injection schedule strongly recommended to prevent resistance development
+
+2.5 DOSAGE MODIFICATIONS FOR CYP3A INDUCERS:
+
+Supplemental YEZTUGO doses recommended when initiating:
+• Strong CYP3A inducers
+• Moderate CYP3A inducers
+
+Strong CYP3A Inducer Protocol:
+• May initiate starting ≥2 days after YEZTUGO first initiated
+• Supplemental Step 1: On day inducer started - 927 mg injection + 600 mg oral tablets
+• Supplemental Step 2: Day after inducer started - 927 mg injection
+• If co-administered >6 months: Continue supplemental doses as shown
+• After stopping inducer: Resume standard continuation dosing
+
+Moderate CYP3A Inducer Protocol:
+• May start any time after YEZTUGO first initiated
+• Supplemental dose: 463.5 mg subcutaneous injection (1 × 1.5 mL)
+• If co-administered >6 months: Continue with 927 mg supplemental (2 × 1.5 mL) + standard dosing
+• After stopping inducer: Resume standard continuation dosing
+
+2.6 INJECTION PREPARATION AND ADMINISTRATION:
+
+ADMINISTRATION ROUTE:
+• Subcutaneous injection ONLY
+• Primary site: Abdomen
+• Alternative site: Thigh
+• DO NOT administer intradermally (risk of serious reactions)
+
+ADMINISTRATION REQUIREMENTS:
+• Healthcare provider administration only
+• Use aseptic technique
+• Visual inspection: Check for particulate matter and discoloration
+• Yellow solution is normal
+• Do NOT use if discolored or contains particles
+
+INJECTION KIT COMPONENTS:
+• Two 1.5 mL injections required per complete dose
+• 18-gauge needle for withdrawal only
+• Single-use kit components only
+• Withdraw from vials and administer as soon as possible
+
+---
+
+WARNINGS AND PRECAUTIONS
+
+5.1 COMPREHENSIVE MANAGEMENT TO REDUCE HIV-1 ACQUISITION RISK:
+
+USE AS PART OF COMPREHENSIVE STRATEGY:
+• Adherence to administration schedule
+• Safer sex practices including condoms
+• Risk reduction for sexually transmitted infections (STIs)
+• Note: YEZTUGO is not always effective
+
+TIMING OF PROTECTION:
+• Time to maximal protection from initiation is unknown
+• Full loading dose (injections + tablets) required for protection Day 3
+• Without oral loading dose, protection may not begin for 1+ month
+
+BEHAVIORAL RISK FACTORS:
+• Condomless sex
+• Past or current STIs
+• Sexual partners with unknown HIV-1 viremic status
+• Sexual activity in high-prevalence areas or networks
+• Self-identified HIV risk
+
+COUNSELING REQUIREMENTS:
+• Use of other prevention measures (condoms, partner status knowledge)
+• Regular STI testing
+• Reducing sexual behaviors associated with HIV-1 risk
+• Importance of adherence and appointment attendance
+
+BASELINE REQUIREMENTS:
+• Confirm HIV-1 negative status before initiation
+• Confirm with each injection
+• Confirm additionally as clinically appropriate
+• Evaluate for acute HIV-1 infection signs/symptoms (fever, fatigue, myalgia, rash)
+
+5.2 POTENTIAL RISK OF RESISTANCE:
+
+RESISTANCE DEVELOPMENT RISK:
+• Can occur if HIV-1 acquired before YEZTUGO use
+• Can occur if HIV-1 acquired while receiving YEZTUGO
+• Can occur after YEZTUGO discontinuation
+
+TESTING REQUIREMENTS:
+• Test before each injection
+• Additional testing as clinically appropriate
+• Confirm HIV-1 negative status
+• Special consideration if STI diagnosed
+
+HIV-1 ACQUISITION DURING TREATMENT:
+• If HIV-1 acquired and continues YEZTUGO alone (unknowingly):
+  - HIV-1 becomes harder to treat over time
+  - Must transition to complete HIV treatment regimen
+
+5.3 LONG-ACTING PROPERTIES AND ASSOCIATED RISKS:
+
+RESIDUAL CONCENTRATIONS:
+• Lenacapavir remains in systemic circulation after discontinuation
+• May persist for up to 12 months or longer
+• Important for counseling about future pregnancy planning
+
+IMPLICATIONS:
+• Extended coverage may continue after stopping
+• Potential for resistance if HIV acquired during residual phase
+• Consider implications before discontinuation
+
+5.4 SERIOUS INJECTION SITE REACTIONS WITH IMPROPER ADMINISTRATION:
+
+IMPROPER ADMINISTRATION RISK:
+• Intradermal injection associated with serious reactions
+• Must use subcutaneous technique only
+
+SERIOUS REACTIONS INCLUDE:
+• Severe skin damage (necrosis)
+• Open sores (ulcers)
+• These are RARE when proper administration technique used
+
+PREVENTION:
+• Healthcare provider training essential
+• Proper aseptic technique required
+• Correct anatomical injection site required
+
+---
+
+ADVERSE REACTIONS
+
+6.1 CLINICAL TRIALS EXPERIENCE:
+
+MOST COMMON ADVERSE REACTIONS (≥5% incidence):
+• Injection site reactions (most frequent)
+• Headache
+• Nausea
+
+INJECTION SITE REACTIONS:
+Commonly experienced by most YEZTUGO users. May include:
+- Lump or bump
+- Pain
+- Skin hardening
+- Swelling
+- Itching
+- Redness
+- Bruising
+- Warmth
+
+Timing and Duration:
+• May be felt but not seen
+• May take longer to resolve than other injection site reactions
+• Usually temporary
+
+SERIOUS SIDE EFFECTS (RARE):
+• Severe injection site reactions from improper administration
+• Severe skin damage (necrosis)
+• Open sores (ulcers)
+
+REPORTING:
+• Report all side effects to healthcare provider
+• Report to Gilead: 1-800-GILEAD-5
+• Report to FDA: 1-800-FDA-1088 or www.fda.gov/medwatch
+
+---
+
+DRUG INTERACTIONS
+
+7.1 EFFECT OF OTHER DRUGS ON YEZTUGO:
+
+Consult full prescribing information for complete drug interaction information
+
+Strong CYP3A Inducers:
+• May reduce YEZTUGO levels
+• Supplemental dosing recommended (see Dosage and Administration)
+
+Moderate CYP3A Inducers:
+• May reduce YEZTUGO levels
+• Supplemental dosing recommended (see Dosage and Administration)
+
+7.2 EFFECT OF YEZTUGO ON OTHER DRUGS:
+
+May affect certain medications for up to 9 months after last injection
+
+7.3 DRUGS WITHOUT CLINICALLY SIGNIFICANT INTERACTIONS:
+(See full prescribing information for complete list)
+
+---
+
+USE IN SPECIFIC POPULATIONS
+
+8.1 PREGNANCY:
+• Can be used during pregnancy
+• Pregnancy registry available for participants
+• PURPOSE 1 trial includes pregnant people
+• Counseling about risks and benefits recommended
+
+8.2 LACTATION:
+• Small amount present in breast milk
+• Can be used while breastfeeding
+• Discuss feeding method with healthcare provider
+
+8.4 PEDIATRIC USE:
+• Approved for adolescents weighing at least 35 kg (77 lbs)
+• Safety and efficacy not established in children <35 kg
+• Eligibility based on weight, not age
+
+8.5 GERIATRIC USE:
+• No specific dosage adjustments based on age
+• (See clinical pharmacology section for specific information)
+
+8.6 RENAL IMPAIRMENT:
+• (See full prescribing information)
+
+8.7 HEPATIC IMPAIRMENT:
+• (See full prescribing information)
+
+---
+
+OVERDOSAGE
+
+Management of overdose:
+(See full prescribing information for complete overdosage information)
+
+---
+
+DESCRIPTION
+
+ACTIVE INGREDIENT:
+• Lenacapavir sodium
+
+MECHANISM OF ACTION:
+• HIV-1 capsid inhibitor
+• Blocks HIV-1 capsid assembly and function
+
+TABLET FORMULATION:
+Inactive ingredients include:
+- Copovidone
+- Croscarmellose sodium
+- Magnesium stearate
+- Mannitol
+- Microcrystalline cellulose
+- Poloxamer 407
+- Film coating: iron oxide black, iron oxide red, iron oxide yellow, polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide
+
+INJECTION FORMULATION:
+Inactive ingredients include:
+- Polyethylene glycol 300
+- Water for injection
+
+---
+
+CLINICAL PHARMACOLOGY
+
+12.1 MECHANISM OF ACTION:
+Lenacapavir is an HIV-1 capsid inhibitor that blocks HIV-1 capsid assembly and function, providing long-acting HIV prevention.
+
+12.2 PHARMACODYNAMICS:
+(See full prescribing information for detailed pharmacodynamic information)
+
+12.3 PHARMACOKINETICS:
+• Long-acting formulation with extended systemic circulation
+• Residual concentrations may persist 12+ months after discontinuation
+• Tablets may be taken with or without food
+
+12.4 MICROBIOLOGY:
+• Novel class of antiretroviral (capsid inhibitor)
+• Rarity of breakthrough infections in clinical trials
+• Resistance unlikely due to class novelty and low breakthrough rate
+
+---
+
+NONCLINICAL TOXICOLOGY
+
+13.1 CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY:
+(See full prescribing information for complete information)
+
+---
+
+CLINICAL STUDIES
+
+14 CLINICAL TRIALS:
+
+PURPOSE 1 Trial:
+• ~5,000 cisgender women (South Africa and Uganda)
+• Compared YEZTUGO to oral PrEP (F/TAF and TDF/FTC)
+• Unblinded June 2024 - met primary endpoint
+• Zero HIV infections in YEZTUGO arm (early results)
+• Included pregnant and lactating people from start
+• Scheduled completion: July 2027
+• Published in: New England Journal of Medicine
+
+PURPOSE 2 Trial:
+• ~3,000 MSM, trans men, trans women, gender non-binary (8 countries)
+• Compared YEZTUGO to oral PrEP (F/TAF and TDF/FTC)
+• Unblinded September 2024 - met primary endpoint
+• Two HIV infections in YEZTUGO arm (early results)
+• Scheduled completion: April 2027
+• Published in: New England Journal of Medicine
+
+PURPOSE 3 Trial:
+• 250 cisgender women (USA)
+• Scheduled completion: January 2028
+
+PURPOSE 4 Trial:
+• 250 people who inject drugs (USA)
+• Scheduled completion: July 2027
+
+PURPOSE 5 Trial:
+• 262 MSM, trans men, trans women, gender non-binary (France and UK)
+• Scheduled completion: July 2029
+
+PURPOSE 365 Trial:
+• 300 people with PrEP indication (USA)
+• Investigates 12-month formulation
+• Intramuscular administration
+• Scheduled completion: September 2028
+
+---
+
+HOW SUPPLIED/STORAGE AND HANDLING
+
+STORAGE REQUIREMENTS:
+
+TABLETS:
+• Store at room temperature 68-77°F (20-25°C)
+• Contains desiccant packet to keep medicine dry
+• Keep desiccant packet in bottle (do NOT eat)
+• Keep in original bottle only
+• Keep bottle tightly closed
+• Child-resistant cap closure - keep out of reach of children
+
+INJECTION:
+• (See full prescribing information for specific storage requirements)
+
+---
+
+PATIENT COUNSELING INFORMATION
+
+Important counseling points for patients include:
+• Need for pre-initiation HIV testing and ongoing testing
+• Adherence to injection schedule is critical
+• Use as part of comprehensive prevention strategy
+• Condom use for STI prevention
+• STI testing recommendations
+• Side effect information and reporting
+• Pregnancy/lactation considerations
+• Drug interaction information
+
+For detailed patient information, see Patient Information sheet.
+
+---
+
+CONTACT INFORMATION
+
+For healthcare providers:
+• Gilead Sciences, Inc.
+• Foster City, CA 94404
+
+Patient/Public inquiries:
+• Phone: 1-800-445-3235
+• Website: www.YEZTUGO.com
+
+Adverse event reporting:
+• Gilead: 1-800-GILEAD-5
+• FDA: 1-800-FDA-1088 or www.fda.gov/medwatch
+
+---
+
+YEZTUGO® is a trademark of Gilead Sciences, Inc. or its related companies.
+All other trademarks are property of their respective owners.
+
+© 2025 Gilead Sciences, Inc. All rights reserved.
+
+This prescribing information has been approved by the U.S. Food and Drug Administration.
+Revised: 6/2025

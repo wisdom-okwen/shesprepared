@@ -1,0 +1,80 @@
+WHO 2025 Guidelines on Lenacapavir (LEN) for HIV Prevention — Essential Chatbot Summary
+
+Source: WHO Guidelines on Lenacapavir for HIV Prevention and Testing Strategies for Long‑Acting Injectable PrEP (2025). fileciteturn1file0
+
+1. Purpose of the Guidelines
+- WHO now recommends **six‑monthly injectable Lenacapavir (LEN)** as an **additional PrEP option** for people at risk of HIV.
+- Goal: expand PrEP choices, improve uptake, and support simplified HIV testing approaches.
+
+2. Core Recommendations
+- **Recommendation 1 (NEW):** Offer LEN as an additional HIV prevention choice for people at risk of HIV (strong recommendation; moderate–high certainty).  
+- **Recommendation 2 (NEW):** Use **rapid diagnostic tests (RDTs)** for HIV testing when initiating, continuing, or discontinuing long‑acting injectable PrEP (strong recommendation; very low certainty).
+
+3. Key Evidence Supporting LEN
+Effectiveness:
+- PURPOSE 1 and 2 trials (8,660 participants across Africa, Latin America, North America, Asia).  
+- **LEN reduced HIV acquisition by ~100% in PURPOSE 1 and ~96% in PURPOSE 2.**
+- LEN significantly outperformed daily oral TDF/FTC in both studies.
+
+Safety:
+- Overall adverse events similar to oral PrEP.
+- Injection‑site reactions common but mostly mild; decrease over time.
+- Very low discontinuation due to injection reaction.
+
+Resistance:
+- Two LEN breakthrough infections in PURPOSE 2 showed **N74D capsid inhibitor mutation**; overall resistance risk considered low but requires monitoring.
+
+Pregnancy:
+- PURPOSE 1 reported **193 pregnancies** among LEN users.  
+- No increase in adverse pregnancy or birth outcomes vs. oral PrEP.
+- No LEN dose adjustment required during pregnancy.
+
+4. Testing Strategies for Long‑Acting PrEP
+- HIV RDTs:
+  - Faster turnaround, fewer missed injections, lower cost.
+  - Similar accuracy for identifying HIV-positive cases compared to NAT.
+  - Enable **same‑day LEN initiation**.
+- HIV self‑testing (HIVST):
+  - Limited evidence for use with injectable PrEP.
+  - Still recommended for oral PrEP, DVR, and PEP.
+
+5. Values and Preferences
+End‑Users:
+- High acceptability of injectable PrEP (CAB-LA data + early LEN data).
+- Drivers: convenience, discreet use, long duration.
+- Concerns: injection pain, clinic scheduling, misconceptions about waning protection.
+
+Providers:
+- Overall supportive of injectable PrEP.
+- Prefer simplified testing (RDTs) to reduce workflow burden.
+
+6. Feasibility & Implementation
+- LEN was delivered across >120 clinical trial sites globally → suggests operational feasibility.
+- Real‑world data pending; indirect evidence from CAB-LA shows successful integration into PrEP programs.
+- Implementation must prioritize differentiated service delivery, including:
+  - community‑based options  
+  - task‑sharing  
+  - multi‑month dispensing  
+  - convenient touchpoints (pharmacy PrEP, TelePrEP)
+
+7. Cost‑Effectiveness Insights
+- Modelling shows LEN can be cost‑effective **if annual per-person cost remains within thresholds**.
+- More cost‑effective in high‑incidence settings and when prioritized for high‑risk populations.
+- Real-world cost unknown; affordability is a future concern.
+
+8. Equity & Human Rights Considerations
+- LEN may improve equity:
+  - useful for people who struggle with daily pill adherence
+  - dosing every six months reduces time and logistical barriers.
+- BUT centralized clinic-only administration may limit accessibility → decentralized & community-led delivery is critical.
+
+9. Practical Takeaways for Chatbot Integration
+Your chatbot should be able to say:
+- “WHO now recommends injectable Lenacapavir every six months as a highly effective HIV prevention option.”  
+- “RDTs are recommended for HIV testing before and during injectable PrEP.”  
+- “LEN showed extremely high protection against HIV in large trials across multiple countries.”  
+- “Most side effects are mild, mainly small injection-site reactions.”  
+- “Pregnancy data so far show no additional safety concerns.”  
+- “People should choose the PrEP option (oral, injectable, ring) that best fits their lifestyle and preferences.”  
+- “LEN is especially useful for those who prefer long-acting, discreet HIV prevention.”
+

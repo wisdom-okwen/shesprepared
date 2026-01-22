@@ -1,0 +1,51 @@
+Gilead Press Release – FDA Approval of Yeztugo (Lenacapavir) for PrEP (September 2025)
+Source: Gilead Sciences, Inc. Business Wire release announcing U.S. FDA approval of Yeztugo (lenacapavir) for twice-yearly PrEP. Summarized for internal ShesPrEPared reference.
+
+Regulatory Milestone and Indication
+- U.S. FDA approved Yeztugo (lenacapavir) injection 463.5 mg/1.5 mL for PrEP in adults and adolescents ≥35 kg at risk of sexually acquired HIV-1; first U.S. PrEP option dosed twice per year.
+- Approval granted under Priority Review following Breakthrough Therapy Designation (Oct 2024). No approvals yet outside the U.S.; filings underway with EMA (accelerated assessment) and regulators in Australia, Brazil, Canada, South Africa, plus additional submissions planned in Latin America once U.S. approval recognized.
+
+Efficacy Evidence (PURPOSE Program)
+- PURPOSE 1 (cisgender women, sub-Saharan Africa): 0 HIV infections among 2,134 Yeztugo recipients; superior to daily oral Truvada (F/TDF) and to background HIV incidence.
+- PURPOSE 2 (cisgender men and gender diverse participants across multiple regions): 2 infections among 2,179 Yeztugo recipients; ≥99.9% remained HIV negative; superior to Truvada and to background incidence.
+- Safety profile consistent across trials; no new significant safety signals. Lenacapavir recognized as 2024 "Breakthrough of the Year" by *Science* magazine.
+
+Access and Pricing Commitments (U.S. Focus)
+- Gilead pursuing broad payer coverage; Advancing Access® co-pay program can reduce commercially insured out-of-pocket costs to $0.
+- Medication assistance program aims to provide Yeztugo at no cost for eligible uninsured individuals in the U.S.
+- Global access strategy emphasizes rapid regulatory pathways and collaboration with advocates; product not yet approved outside U.S.
+
+Key Safety Information (Boxed Warning and Precautions)
+- Boxed Warning: risk of drug-resistant HIV if Yeztugo used in undiagnosed infection. Confirm HIV-negative status with FDA-cleared assays before initiation and at each injection; initiate full ART immediately if infection occurs.
+- Contraindicated in known or suspected HIV-1 infection.
+- Comprehensive prevention approach: reinforce safer sex practices, STI screening, and adherence to injection schedule.
+- Resistance risk heightened with missed or delayed injections or post-discontinuation tail; transition to alternative PrEP within 28 weeks of last injection for those still at risk.
+- Long-acting tail: drug may persist ≥12 months; ensure clients agree to visit schedule.
+- Serious injection-site injuries possible with intradermal administration; injections must be subcutaneous only.
+
+Common Adverse Reactions (≥5%)
+- Injection-site reactions, headache, nausea.
+
+Drug Interaction Highlights
+- Strong/moderate CYP3A inducers (e.g., rifampicin, certain anticonvulsants) can lower lenacapavir exposure; adjust dosing per label.
+- Combined P-gp/UGT1A1/strong CYP3A inhibitors not recommended.
+- Lenacapavir may elevate concentrations of CYP3A or P-gp substrates for up to 9 months post-injection; monitor co-medications (e.g., ketamine, PDE5 inhibitors).
+
+Dosing and Missed Dose Guidance
+- Initiation: Day 1 – two 1.5 mL SC injections (927 mg total) plus two 300 mg tablets (600 mg). Day 2 – two 300 mg tablets (600 mg).
+- Maintenance: 927 mg SC every 26 weeks ±2 weeks.
+- Anticipated delay >2 weeks: bridge with 300 mg oral tablet once weekly (max 6 months), resume injection within 7 days of last oral dose.
+- >28 weeks since last injection without oral cover: restart full initiation regimen if clinically appropriate.
+
+Program Notes for ShesPrEPared Counselors
+- Stress twice-yearly schedule and importance of timely visits; offer reminder systems and contingency plans for travel or access barriers.
+- Prioritize rapid HIV testing workflows before every injection; coordinate lab access for suspected acute infections.
+- Discuss tail coverage and prompt switch to alternative PrEP options if stopping Yeztugo.
+- Screen for concomitant medications (TB therapy, anticonvulsants, gender-affirming hormones, recreational substances) to manage interactions.
+- Reinforce ongoing condom/STI prevention, pregnancy planning, and linkage to comprehensive sexual health services.
+- For uninsured U.S.-based clients, explore Gilead Advancing Access assistance; monitor evolving pricing and availability in other geographies.
+
+Unresolved / Forward-Looking Considerations
+- Real-world persistence, adherence supports, and injection logistics outside clinical trials remain to be defined.
+- International regulatory timelines and pricing structures pending; current access limited to U.S. approval.
+- Continued surveillance needed for resistance, injection-site complications, and long-term safety, especially with widespread rollout.

@@ -1,0 +1,19 @@
+Lenacapavir Information Hub (Compiled 10125_LENsources.docx)
+Source list curated by user team; URLs point to primary publishers (PrePWatch, WHO, CDC, Gilead, NEJM, PURPOSE Studies, Yeztugo patient/provider sites). Use to navigate official references—no additional rights implied.
+
+Key Resource Groups
+- Product Overviews: PrePWatch landing page for lenacapavir PrEP basics; Yeztugo.com (patient) and YeztugoHCP.com (clinician) for branded dosing, safety, and support tools.
+- Regulatory & Policy: Gilead June 18, 2025 FDA announcement; CDC MMWR clinical recommendation (Sept 2025); WHO guideline hub (both overview and PDF download links) for global policy alignment.
+- Clinical Evidence: NEJM PURPOSE 1 (cisgender women) and PURPOSE 2 (men and gender-diverse populations) publications; purposestudies.com portal for broader study updates, including PURPOSE 3.
+- Implementation Planning: Links feed into additional resources (e.g., Getting LEN Rollout Right, WHO training toolkit) reachable through the PrePWatch hub; leverage these when tailoring country roll-out plans.
+
+How to Use This Packet
+- Verify currency: follow each link to confirm the latest version; many are living resources updated post-approval.
+- Capture local copies when licensing allows (e.g., WHO CC BY-NC-SA documents) for offline RAG ingestion.
+- Pair clinical trial publications with Gilead and CDC policy statements to maintain evidence-to-guideline traceability.
+- Direct frontline teams to the patient/provider Yeztugo portals for practical administration videos, co-pay forms, and safety FAQs.
+
+Coverage Gaps to Fill
+- Add local regulatory notices once LEN gains approval beyond US/EU.
+- Track forthcoming PURPOSE 3/4/5 readouts and one-year formulation trial announcements.
+- Incorporate pricing/access updates from Unitaid, Gates, and generic partners as they publish concrete supply agreements.

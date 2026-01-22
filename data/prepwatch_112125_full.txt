@@ -1,0 +1,286 @@
+PREPWATCH: INJECTABLE LENACAPAVIR (LEN) FOR PrEP
+Comprehensive Resource Guide
+
+Last Updated: November 18, 2025
+
+---
+
+THE BASICS
+
+WHAT IS INJECTABLE LENACAPAVIR?
+• New antiretroviral (ARV) drug highly effective at preventing HIV
+• Two subcutaneous injections administered every six months
+• Given in the abdomen or thigh
+• Each visit requires two injections (1.5 mL each)
+
+INITIAL DOSING (First Visit):
+• Day 1: Two injections + two oral pills (oral loading dose)
+• Day 2: Two more oral pills
+• Protection begins Day 3 if full loading dose taken
+• Protection may be delayed to 1+ month without oral loading
+
+ONGOING DOSING:
+• Two injections every 6 months after first visit
+
+DEVELOPER AND APPROVAL:
+• Developed by: Gilead Sciences
+• WHO recommended and prequalified
+• First approved in 2025 in multiple countries:
+  - USA (FDA approved) - Brand name: Yeztugo
+  - European Medicines Agency approved - Brand name: Yeytuo
+  - South African Health Products Regulatory Authority approved
+• Approved for use starting 2025; available in early adopter countries in early 2026
+
+ELIGIBILITY:
+• Adults and adolescents weighing at least 35 kg (77 lbs)
+• At risk of getting HIV through sexual contact
+• Must be HIV-negative to start
+
+GENERICS:
+• Generics currently in development
+• Expected availability: 2027
+• Gates Foundation and Unitaid partnership: $40 USD per person per year in up to 120 countries from 2027
+
+FUTURE FORMULATIONS:
+• One-year version under investigation
+• Early results positive
+• Phase III clinical trial launched in 2025 (expected to run through 2028)
+
+---
+
+EFFECTIVENESS DATA
+
+CLINICAL TRIAL RESULTS:
+• Highly effective at preventing HIV in two large Phase III clinical trials
+
+PURPOSE 1 Trial (Cisgender Women):
+- Approximately 5,000 participants in South Africa and Uganda
+- Early results: ZERO HIV infections in LEN for PrEP arm
+- Unblinded June 2024 after meeting primary endpoint
+- Showed superiority to oral PrEP (TDF/FTC)
+- Scheduled to run until July 2027
+- First Phase III trial to include pregnant and lactating people from start
+
+PURPOSE 2 Trial (MSM, Trans, Non-Binary):
+- Approximately 3,000 participants in Argentina, Brazil, Mexico, Peru, Puerto Rico, South Africa, Thailand, USA
+- Early results: Only 2 HIV infections in LEN for PrEP arm
+- Unblinded September 2024 after meeting primary endpoint
+- Showed superiority to oral PrEP (TDF/FTC)
+- Scheduled to run until April 2027
+
+ADDITIONAL PHASE II/III TRIALS:
+
+PURPOSE 3:
+- 250 cisgender women in USA
+- Scheduled to run until January 2028
+
+PURPOSE 4:
+- 250 people who inject drugs in USA
+- Scheduled to run until July 2027
+
+PURPOSE 5:
+- 262 MSM, gay men, trans men, trans women, gender non-binary in France and UK
+- Scheduled to run until July 2029
+
+PURPOSE 365 (12-Month Formulation):
+- 300 people with PrEP indication in USA
+- Intramuscular administration
+- Scheduled to run until September 2028
+
+KEY EFFECTIVENESS POINTS:
+• Protection depends on adherence to loading dose schedule
+• Full protection timeline with complete loading dose: Day 3
+• May improve adherence vs daily pills due to longer-acting profile
+• May be more discreet than daily pill regimen
+• LEN for PrEP is not always 100% effective
+
+---
+
+SAFETY PROFILE
+
+POPULATIONS STUDIED:
+• Safe and effective for cisgender and transgender men and women
+• Safe and effective for adolescents (eligibility based on weight 35+ kg, not age)
+• Can be safely used by pregnant people
+• Can be safely used by lactating people
+
+COMMON SIDE EFFECTS:
+• Injection site reactions (most common):
+  - Pain
+  - Swelling
+  - Redness
+  - Small lumps or nodules under skin
+  - Usually mild and temporary
+• Headache
+• Nausea
+
+SERIOUS SIDE EFFECTS (Rare):
+• Improper injection administration can lead to:
+  - Severe skin damage (necrosis)
+  - Open sores (ulcers)
+
+DRUG INTERACTIONS:
+• No significant interactions with gender-affirming hormone therapy
+• May interact with some common medications requiring dosage adjustments:
+  - High cholesterol medications
+  - Erectile dysfunction medications
+  - Tuberculosis medications
+• Healthcare provider should review all medications before starting
+
+RESISTANCE:
+• LEN is from new class of antiretrovirals (capsid inhibitors)
+• No other capsid inhibitors routinely used for prevention/treatment
+• Rarity of breakthrough infections means resistance unlikely to be significant concern
+
+WHAT IT DOES NOT PREVENT:
+• Does not prevent other sexually transmitted infections (STIs)
+• Does not prevent pregnancy
+
+---
+
+COMPARISON WITH OTHER OPTIONS
+
+LEN for PrEP vs. Oral PrEP (Daily Pills):
+• LEN: Every 6 months vs. Daily oral medication
+• LEN: May improve adherence with longer-acting profile
+• Both highly effective when used as directed
+• LEN may be more discreet option
+
+LEN for PrEP vs. Cabotegravir (Another Injectable PrEP):
+• See comparison graphic in full resources section
+
+---
+
+ACCESS AND APPROVAL STATUS
+
+CURRENT STATUS:
+• Limited availability outside clinical trials in most countries
+• Multiple countries preparing to introduce LEN in early 2026
+• Full approval map available in interactive graphic
+
+WHERE TO ACCESS:
+Outside USA:
+• Not yet available outside clinical trials in most countries
+• Early introduction planned for multiple countries in early 2026
+• Check interactive approval map for specific country status
+
+USA:
+• FDA approved
+• Available as Yeztugo
+• Check with healthcare providers for access
+
+---
+
+CLINICAL CONSIDERATIONS
+
+COMPREHENSIVE HIV PREVENTION STRATEGY:
+Use YEZTUGO as part of comprehensive prevention including:
+• Adherence to injection schedule
+• Safer sex practices and condom use
+• Regular STI testing
+• Knowledge of partner(s) HIV status
+• Support reducing sexual behaviors associated with HIV risk
+
+BEHAVIORAL FACTORS FOR HIV ACQUISITION RISK:
+• Condomless sex
+• Past or current STIs
+• Sexual partners of unknown HIV viremic status
+• Sexual activity in high prevalence areas/networks
+
+PRE-INITIATION REQUIREMENTS:
+• Confirmed HIV-negative test (using FDA-approved test for acute/primary infection)
+• Assessment for acute HIV-1 infection symptoms
+• Counseling on adherence requirements
+• Agreement to injection schedule and testing requirements
+
+ONGOING REQUIREMENTS:
+• HIV test with each scheduled injection
+• Additional testing if clinically indicated
+• Regular STI screening
+• Maintain contact with healthcare provider
+
+---
+
+SPECIAL POPULATIONS
+
+PREGNANCY:
+• Can be safely used during pregnancy
+• PURPOSE 1 trial includes pregnant people from start
+• Pregnancy registry available for participants
+
+LACTATION:
+• Can be safely used while breastfeeding
+• Healthcare provider should advise on feeding method
+
+ADOLESCENTS:
+• Eligibility based on weight (35+ kg / 77+ lbs) not age
+• Safe and effective data available
+• Found safe for ages and weight ranges tested
+
+TRANSGENDER AND NON-BINARY PEOPLE:
+• Safe for transgender men and women
+• Safe for gender non-binary people
+• No significant interactions with gender-affirming hormone therapy
+• Data supports safety in PURPOSE 2 and PURPOSE 5 trials
+
+PEOPLE WHO INJECT DRUGS:
+• PURPOSE 4 trial investigating safety/efficacy
+• Early results expected 2027
+
+---
+
+FUTURE DIRECTIONS
+
+ONE-YEAR FORMULATION:
+• PURPOSE 365 trial underway
+• Administered intramuscularly
+• Early positive results
+• Expected Phase III results 2028
+
+GENERICS DEVELOPMENT:
+• Multiple manufacturers partnered with Gates Foundation/Unitaid
+• Expected pricing: $40 USD per person per year
+• Target availability: 2027 in up to 120 countries
+
+IMPLEMENTATION RESOURCES:
+• WHO Guidelines on Lenacapavir for HIV Prevention published
+• WHO and Jhpiego Provider Training Toolkit available
+• Standard Operating Procedures (SOP) being developed
+• Getting LEN Rollout Right: Resources and tools for LEN introduction
+
+---
+
+RESOURCES AND FURTHER INFORMATION
+
+REPORTS AND GUIDES:
+• Getting LEN Rollout Right: Resources and tools to support LEN introduction
+• WHO Guidelines on Lenacapavir for HIV Prevention
+• WHO and Jhpiego Provider Training Toolkit on Oral and Long-Acting HIV PrEP
+• The Gears of Lenacapavir for PrEP Rollout: Framework for accelerated introduction
+• From Clinical Trial Efficacy to Public Health Impact: Comprehensive implementation plan
+• The Lens on LEN: AVAC primer on lenacapavir
+• Standard Operating Procedure (SOP) for Injectable Lenacapavir as PrEP
+
+TRACKING AND GRAPHICS:
+• Tracking Lenacapavir Rollout: Interactive graphics with timelines and key actors
+• LEN for PrEP Supply in Early Adopter Countries
+• Overview of LEN for PrEP Trials
+• Lenacapavir for PrEP Regulatory Approvals Map
+• LEN Generics: Can we go faster?
+
+TRIAL RESULTS AND PRESS RELEASES:
+• PURPOSE 1 Summary and full results (New England Journal of Medicine)
+• PURPOSE 2 Summary and full results (New England Journal of Medicine)
+• AVAC and Gilead press releases on trial results
+
+WEBINARS:
+• The Scientific Journey of Lenacapavir: From basic science to clinical development to impact
+• Explores US NIH support for basic science and South Africa clinical research infrastructure
+
+COMPARISONS:
+• LEN vs. Cabotegravir comparison graphic available
+
+GILEAD RESOURCES:
+• Gilead's access planning statement for high-incidence, resource-limited countries
+
+For more information: Visit PrEP Watch website or contact your healthcare provider
