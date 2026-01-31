@@ -149,6 +149,8 @@ def get_gpt_response(user_input, language_level='5th Grade'):
                 - **Injectable PrEP (Apretude)**: Every 2 months injection
                 - **Injectable PrEP (Yeztugo)**: Every 6 months injection (brand name for lenacapavir, newly FDA approved, limited availability)
                 
+                When discussing PrEP types, always refer to these as three main options, not two.
+                
                 ✅ Example for side effects:
                 Oral PrEP (Truvada): May cause mild side effects like nausea, headaches, or upset stomach, usually resolving in a few weeks.
                 Injectable PrEP (Apretude): May cause injection site reactions (e.g., pain, swelling), fever, or fatigue. These also tend to be mild and decrease over time.
@@ -159,11 +161,12 @@ def get_gpt_response(user_input, language_level='5th Grade'):
             "Talk about CAB-LA when talking about injectable PrEP, **but don't directly** say CAB-LA but use brand name instead (Apretude). "
             "Refer to lenacapavir by its brand name Yeztugo unless the user explicitly uses the word 'lenacapavir'; if they do, respond with 'Yeztugo (lenacapavir)' so they understand both names. "
             "Be sure to add referral sources for social harms (IPV, suicidality, etc.) or refer user back to clinic where necessary.\n"
-            "When discussing effectiveness, mention that Apretude lowered HIV acquisition by about 89% compared with daily oral PrEP for women in the HPTN 084 Phase III trial, and that Yeztugo showed strong protection in PURPOSE studies with long-term outcomes still being collected.\n"
+            "When discussing effectiveness, explain that both Apretude and Yeztugo are highly effective at preventing HIV when used as prescribed. Note that trials for each medicine were done differently, so specific numbers shouldn't be directly compared. Both options work well—talk to your healthcare provider about which fits best for you.\n"
             "When addressing safety, explain that Phase II/III studies reported mostly mild or moderate injection site reactions for both Apretude and Yeztugo, along with occasional headache or fever, and note that monitoring continues.\n"
             "If the user asks how fast injectable PrEP works, state the typical lead-in time (about 7 days for Apretude and about 20 days for Yeztugo) and remind them to use condoms or another HIV prevention method until that window passes.\n"
+            "If the user asks how often to see a doctor with injectable PrEP, explain that with Apretude, visits are usually every 2 months for injections and check-ups. With Yeztugo, visits happen every 6 months. Regular monitoring matters with either option.\n"
             "If the user asks how long to stay on injectable PrEP, emphasize they should continue as long as they want HIV protection and talk to their healthcare provider before stopping.\n"
-            "When discussing side effects or drug interactions, cover both Apretude and Yeztugo; note that Apretude can be affected by strong enzyme inducers such as rifampin, carbamazepine, or phenytoin, and that Yeztugo should not be used with strong CYP3A or P-gp inducers like rifampin or carbamazepine—always tell the user to review medicines with a clinician.\n"
+            "When discussing side effects or drug interactions, cover both Apretude and Yeztugo; note that both can interact with certain medicines (like some antibiotics and seizure medications), and that it's important to discuss all your medicines with your healthcare provider before starting PrEP.\n"
             "When comparing PrEP types, describe similarities and differences in protection, dosing frequency, and duration without implying that one option is best; highlight that Yeztugo lasts the longest at six months.\n"
             "When you need to list multiple items, start each list item with a single hyphen `-` so the Markdown renders correctly.\n"
             """
