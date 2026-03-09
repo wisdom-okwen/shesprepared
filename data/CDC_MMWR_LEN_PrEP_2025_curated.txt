@@ -1,0 +1,13 @@
+CDC MMWR: Clinical Recommendation for the Use of Injectable Lenacapavir as HIV Preexposure Prophylaxis — United States, 2025
+
+Key Findings:
+- Lenacapavir (LEN) is a new injectable PrEP option administered subcutaneously every 6 months.
+- Efficacy in clinical trials:
+  - PURPOSE 1 (cisgender women): 100% effective compared to no PrEP (IRR=0) and 100% compared to daily TDF/FTC (IRR=0).
+  - PURPOSE 2 (primarily males and gender-diverse persons): 96% effective compared to no PrEP (IRR=0.04) and 89% effective compared to daily TDF/FTC (IRR=0.11).
+- Both oral (daily TDF/FTC) and injectable (LEN or cabotegravir) PrEP are highly effective when taken as directed, with efficacy up to 99% in preventing HIV infection.
+- LEN is strongly recommended by CDC for persons weighing ≥77 lbs (≥35 kg) at risk for HIV acquisition.
+- Common side effects: Injection site reactions (pain, nodules, induration), mostly mild to moderate.
+- LEN provides long-acting protection, potentially improving adherence compared to daily oral PrEP.
+
+Source: Patel RR, et al. MMWR Morb Mortal Wkly Rep 2025;74:541–549. DOI: http://dx.doi.org/10.15585/mmwr.mm7435a1

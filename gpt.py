@@ -41,6 +41,7 @@ CURATED_FILES = {
     "Yeztugo Patient Information": os.path.join(DATA_DIR, 'yeztugo_patient_pi_full.txt'),
     "Yeztugo Safety & Prescribing Information": os.path.join(DATA_DIR, 'yeztugo_safetyinfo_full.txt'),
     "PrEPWatch Lenacapavir Resource Guide": os.path.join(DATA_DIR, 'prepwatch_112125_full.txt'),
+    "CDC MMWR LEN PrEP 2025": os.path.join(DATA_DIR, 'CDC_MMWR_LEN_PrEP_2025_curated.txt'),
 }
 
 
